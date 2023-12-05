@@ -1,0 +1,4372 @@
+
+<!DOCTYPE html>
+<html lang='en'>
+
+  
+  
+
+  <head> 
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>
+      $m = $.noConflict(true); 
+    </script>
+<link rel='preconnect dns-prefetch' href='https://api.config-security.com/' crossorigin />
+<link rel='preconnect dns-prefetch' href='https://conf.config-security.com/' crossorigin />
+<link rel='preconnect dns-prefetch' href='https://triplewhale-pixel.web.app/' crossorigin />
+<script>
+/* >> TriplePixel :: start*/
+window.TriplePixelData={TripleName:"floracurl.myshopify.com",ver:"1.9",plat:"SHOPIFY",isHeadless:false},function(W,H,A,L,E,_,B,N){function O(U,T,P,H,R){void 0===R&&(R=!1),H=new XMLHttpRequest,P?(H.open("POST",U,!0),H.setRequestHeader("Content-Type","application/json")):H.open("GET",U,!0),H.send(JSON.stringify(P||{})),H.onreadystatechange=function(){4===H.readyState&&200===H.status?(R=H.responseText,U.includes(".txt")?eval(R):P||(N[B]=R)):(299<H.status||H.status<200)&&T&&!R&&(R=!0,O(U,T-1,P))}}if(N=window,!N[H+"sn"]){N[H+"sn"]=1;try{A.setItem(H,1+(0|A.getItem(H)||0)),(E=JSON.parse(A.getItem(H+"U")||"[]")).push(location.href),A.setItem(H+"U",JSON.stringify(E))}catch(e){}var i,m,p;A.getItem('"!nC`')||(_=A,A=N,A[H]||(L=function(){return Date.now().toString(36)+"_"+Math.random().toString(36)},E=A[H]=function(t,e){return"State"==t?E.s:(W=L(),(E._q=E._q||[]).push([W,t,e]),W)},E.s="Installed",E._q=[],E.ch=W,B="configSecurityConfModel",N[B]=1,O("https://conf.config-security.com/model",5),i=L(),m=A[atob("c2NyZWVu")],_.setItem("di_pmt_wt",i),p={id:i,action:"profile",avatar:_.getItem("auth-security_rand_salt_"),time:m[atob("d2lkdGg=")]+":"+m[atob("aGVpZ2h0")],host:A.TriplePixelData.TripleName,url:window.location.href,ref:document.referrer,ver:window.TriplePixelData.ver},O("https://api.config-security.com/",5,p),O("https://triplewhale-pixel.web.app/dot1.9.txt",5)))}}("","TriplePixel",localStorage);
+/* << TriplePixel :: end*/
+</script>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width,initial-scale=1'>
+
+    <link rel="preload" href="//floracurl.co.uk/cdn/shop/t/109/assets/radiant.css?v=175960928956719916901701355667" as="style">
+    <link rel="preload" href="//floracurl.co.uk/cdn/shop/t/109/assets/radiant.js?v=124939023732853150911701333399&enable_js_minification=1" as="script">
+    <link rel="preconnect dns-prefetch" href="https://cdn.shopify.com" />
+
+    <link rel='canonical' href='https://floracurl.co.uk/blogs/curl-blog'>
+    <link rel='shortcut icon' href="//floracurl.co.uk/cdn/shop/files/Favicon_6e657259-9a3f-48c7-946c-07e87c40307c_64x64.png?v=1700156062" type='image/png'>
+
+    <meta name="theme-color" content="">
+
+    
+    
+
+    
+    <title>
+      Curly Hair Blog | How To&#39;s &amp; Tips
+      
+      
+      
+        &ndash; Flora &amp; Curl 
+      
+    </title>
+
+    
+      <meta name="description" content="Get the latest on how to achieve healthy curly hair, kinky hair, natural hair with our regular blog posts. We cover topics on hair growth, the importance of moisture, length retention and what your curl type means," />
+    
+
+    <link href="//floracurl.co.uk/cdn/shop/t/109/assets/radiant.css?v=175960928956719916901701355667" rel="stylesheet" type="text/css" media="all" />
+
+    
+
+
+
+
+
+  
+    
+      
+      
+
+
+
+
+<meta name="description" content="Get the latest on how to achieve healthy curly hair, kinky hair, natural hair with our regular blog posts. We cover topics on hair growth, the importance of moisture, length retention and what your curl type means," />
+<meta property="og:url" content="https://floracurl.co.uk/blogs/curl-blog">
+<meta property="og:site_name" content="Flora &amp; Curl ">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Curly Hair Blog | How To&amp;#39;s &amp;amp; Tips">
+<meta property="og:description" content="Get the latest on how to achieve healthy curly hair, kinky hair, natural hair with our regular blog posts. We cover topics on hair growth, the importance of moisture, length retention and what your curl type means,">
+<meta property="og:image" content="http://floracurl.co.uk/cdn/shop/articles/13.png?v=1592488699">
+<meta property="og:image:secure_url" content="https://floracurl.co.uk/cdn/shop/articles/13.png?v=1592488699">
+
+
+
+<meta name="twitter:title" content="Curly Hair Blog | How To&amp;#39;s &amp;amp; Tips">
+<meta name="twitter:description" content="Get the latest on how to achieve healthy curly hair, kinky hair, natural hair with our regular blog posts. We cover topics on hair growth, the importance of moisture, length retention and what your curl type means,">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://floracurl.co.uk/cdn/shop/articles/13.png?v=1592488699">
+<meta name="twitter:image:width" content="480">
+<meta name="twitter:image:height" content="480">
+
+    <script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Flora &amp; Curl ",
+  "description": "Shop natural haircare for curly, coily, kinky and black afro hair! Free from silicones, sulfates, parabens, artificial fragrances or colours. ",
+  "telephone": "+443300431035",
+  "address": "3 Embassy Drive, Calthorpe Road, Apex House, Birmingham, England, B15 1TR",
+  "url": "https://floracurl.co.uk",
+  "hasMap": "",
+  "contactPoint": [{
+      "@type": "ContactPoint",
+      "telephone": "+443300431035",
+      "contactType": "customer service"
+    }],
+  "image": "https://floracurl.co.uk/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_800x800.gif",
+  "logo": {
+    "@type": "ImageObject",
+    "contentUrl": "https://floracurl.co.uk/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_500x500.gif",
+    "url": "https://floracurl.co.uk/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_500x500.gif",
+    "name": "Flora &amp; Curl  Logo"
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    
+
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://floracurl.co.uk",
+          "name": "Curly Hair Blog | How To&#39;s &amp; Tips"
+        }
+      }
+      
+
+    
+
+  ]
+}
+
+</script>
+
+
+
+
+
+    
+
+    <script type="application/json" data-theme-information>
+      {
+        "locale": {
+          "addToCart": "add to bag",
+          "makeASelection": "Make A Selection",
+          "soldOut": "Sold Out",
+          "unavailable": "Unavailable"
+        },
+        "moneyFormat": "<span class=money>£{{amount}}</span>",
+        "rootURL": "" 
+      }
+    </script>
+
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="mi4u-zaO8b9CZJy6oY6q5aagzwaSTgFDR681Dk3jfN8">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/15125012/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="14e23bed9895550e4d9cddb23443e1b2">
+<meta id="in-context-paypal-metadata" data-shop-id="15125012" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="GBP">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/curl-blog.atom" />
+<link rel="next" href="/blogs/curl-blog?page=2">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-GG"></script><script id="apple-pay-shop-capabilities" type="application/json">{"shopId":15125012,"countryCode":"GB","currencyCode":"GBP","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/15125012","merchantName":"Flora \u0026 Curl ","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","maestro","masterCard","amex","discover","elo"],"total":{"type":"pending","label":"Flora \u0026 Curl ","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":false}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"14e23bed9895550e4d9cddb23443e1b2","betas":["rich-media-storefront-analytics"],"domain":"floracurl.co.uk","predictiveSearch":true,"shopId":15125012,"smart_payment_buttons_url":"https:\/\/floracurl.co.uk\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/floracurl.co.uk\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "floracurl.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"GBP","rate":"1.0"};
+Shopify.country = "GG";
+Shopify.theme = {"name":"RADIANT LIVE","id":124190326858,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "floracurl.co.uk/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_3682dfca.en.esm.js","modules/chunk.common_02d6b482.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_ec3aa600.en.esm.js","modules/chunk.common_02d6b482.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_d445713e.en.esm.js","modules/chunk.common_02d6b482.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_e6dfd448.en.esm.js","modules/chunk.common_02d6b482.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_938ad504.en.esm.js","modules/chunk.common_02d6b482.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_29b1e102.en.esm.js","modules/chunk.common_02d6b482.esm.js","modules/chunk.shop-pay_26b0b553.esm.js"],"login-button":["modules/client.login-button_b1cf4c9f.en.esm.js","modules/chunk.common_02d6b482.esm.js"],"discount-app":["modules/client.discount-app_382f0d87.en.esm.js","modules/chunk.common_02d6b482.esm.js"],"payment-terms":["modules/client.payment-terms_2718c8c9.en.esm.js","modules/chunk.common_02d6b482.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/faq.ddshopapps.com\/js\/frontend\/scripttag.js?shop=floracurl.myshopify.com","https:\/\/cdn.shopify.com\/shopifycloud\/privacy-banner\/storefront-banner.js?shop=floracurl.myshopify.com","https:\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/js\/header.min.js?settings=eyJrZXkiOiJJV1R0bXkyZnJObHpGZEdLIiwicyI6Im5vbmUifQ==\u0026shop=floracurl.myshopify.com","https:\/\/ecommplugins-trustboxsettings.trustpilot.com\/floracurl.myshopify.com.js?settings=1670431860474\u0026shop=floracurl.myshopify.com","https:\/\/app.octaneai.com\/yfokyq095c3ypnnd\/shopify.js?x=tLLkYY1VWN4AmPh5\u0026shop=floracurl.myshopify.com","https:\/\/geolocation-recommendations.shopifyapps.com\/locale_bar\/script.js?shop=floracurl.myshopify.com","https:\/\/cdn1.judge.me\/assets\/installed.js?shop=floracurl.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/1512\/5012\/t\/107\/assets\/sca.dealerform_scripttag.js?v=1684332090\u0026shop=floracurl.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/1512\/5012\/t\/110\/assets\/sca.storelocator_scripttag.js?v=1696512657\u0026shop=floracurl.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/1512\/5012\/t\/110\/assets\/sca.wtb_scripttag.js?v=1696512658\u0026shop=floracurl.myshopify.com","https:\/\/cdn-loyalty.yotpo.com\/loader\/ki55m4soV1UWDL16HUwuXQ.js?shop=floracurl.myshopify.com","https:\/\/app.123formbuilder.com\/modules\/Shpf\/js\/embedder.js?install=2023-11-16\u0026shop=floracurl.myshopify.com","https:\/\/thread.spicegems.org\/0\/js\/scripttags\/floracurl\/country_redirect_caef9148d9519097c9abddea4f272a2c.min.js?v=36\u0026shop=floracurl.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":15125012,"offset":0,"reqid":"ac437dd5-ced6-4f30-b59f-7f2507770c94","pageurl":"floracurl.co.uk\/blogs\/curl-blog","s":"blogs-91446596","u":"afbf96c5c4b2","p":"blog","rtyp":"blog","rid":91446596};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//floracurl.co.uk/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//floracurl.co.uk/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-a2d444786d996da5634fbbaeeffe6104ee672440dfa6cdcaebfb27dceaaf9c0f.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//floracurl.co.uk/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 180px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+    <script type="text/javascript">
+    (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/RBwbkN7MuFNTFTm2EMXIRN751JZ1RIrVtJy04dWv/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+    </script>
+
+  
+ 
+ 
+<script id='geoshippingbarscript' mlveda='floracurl.co.uk' src='https://floracurl.myshopify.com/apps/GeoShippingBar/GeoShipingBarProxy.js'></script>
+<link href="//floracurl.co.uk/cdn/shop/t/109/assets/mlveda-shippingbar.css?v=54781970504319021521700475486" rel="stylesheet" type="text/css" media="all" /> 
+<!-- BEGIN app block: shopify://apps/yotpo-subscriptions/blocks/app-embed-block/ef25e582-ada5-4bb0-b4e7-f94e97ab1bb4 -->
+  <script src="https://cdn-widgetsrepository.yotpo.com/v1/loader/RBwbkN7MuFNTFTm2EMXIRN751JZ1RIrVtJy04dWv" async></script>
+
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/geoip-country-redirect/blocks/speeedup_link/a3fa1a12-9aad-4707-ab56-45ccf9191aa7 --><script>
+	try {
+    let customMeta = {};
+    if(customMeta.sgcr_customjs) {
+      Function(customMeta.sgcr_customjs)();
+    }
+  } catch (error) {
+      console.warn("Error In Custom Code");
+  }
+  
+</script>
+
+
+<script type="text/javascript" src='https://thread.spicegems.org/0/js/scripttags/floracurl/country_redirect_caef9148d9519097c9abddea4f272a2c.min.js?v=36&shop=floracurl.myshopify.com' async></script>
+
+
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/yotpo-loyalty-rewards/blocks/loader-app-embed-block/2f9660df-5018-4e02-9868-ee1fb88d6ccd -->
+    <script src="https://cdn-widgetsrepository.yotpo.com/v1/loader/ki55m4soV1UWDL16HUwuXQ" async></script>
+
+
+
+    <script src="https://cdn-loyalty.yotpo.com/loader/ki55m4soV1UWDL16HUwuXQ.js?shop=floracurl.co.uk" async></script>
+
+
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/yotpo-product-photo-reviews/blocks/settings/eb7dfd7d-db44-4334-bc49-c893b51b36cf -->
+
+
+  <script type="text/javascript" src="https://cdn-widgetsrepository.yotpo.com/v1/loader/RBwbkN7MuFNTFTm2EMXIRN751JZ1RIrVtJy04dWv?languageCode=en" async></script>
+
+
+
+  
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  <script async src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=XGUr9g"></script>
+  <script>!function(){if(!window.klaviyo){window._klOnsite=window._klOnsite||[];try{window.klaviyo=new Proxy({},{get:function(n,i){return"push"===i?function(){var n;(n=window._klOnsite).push.apply(n,arguments)}:function(){for(var n=arguments.length,o=new Array(n),w=0;w<n;w++)o[w]=arguments[w];var t="function"==typeof o[o.length-1]?o.pop():void 0,e=new Promise((function(n){window._klOnsite.push([i].concat(o,[function(i){t&&t(i),n(i)}]))}));return e}}})}catch(n){window.klaviyo=window.klaviyo||[],window.klaviyo.push=function(){var n;(n=window._klOnsite).push.apply(n,arguments)}}}}();</script>
+
+  
+
+
+
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/yotpo-product-photo-reviews/blocks/reviews_tab/eb7dfd7d-db44-4334-bc49-c893b51b36cf -->
+
+
+
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8 --><!-- Start of Judge.me Core -->
+<link rel="dns-prefetch" href="https://cdn.judge.me">
+<script data-cfasync='false' class='jdgm-settings-script'>window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"No reviews","badge_n_reviews_text":"{{ n }} review/reviews","badge_star_color":"#2a7050","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_title":"Customer Reviews","widget_open_form_text":"Write a review","widget_close_form_text":"Cancel review","widget_refresh_page_text":"Refresh page","widget_summary_text":"Based on {{ number_of_reviews }} review/reviews","widget_no_review_text":"Be the first to write a review","widget_name_field_text":"Name","widget_verified_name_field_text":"Verified Name (public)","widget_name_placeholder_text":"Enter your name (public)","widget_required_field_error_text":"This field is required.","widget_email_field_text":"Email","widget_verified_email_field_text":"Verified Email (private, can not be edited)","widget_email_placeholder_text":"john.smith@example.com","widget_email_field_error_text":"Please enter a valid email address.","widget_rating_field_text":"Rating","widget_review_title_field_text":"Title of Review","widget_review_title_placeholder_text":"Give your review a title","widget_review_body_field_text":"How was your experience using this item?","widget_review_body_placeholder_text":"Write your comments here","widget_pictures_field_text":"Picture/Video (optional)","widget_submit_review_text":"Send review","widget_submit_verified_review_text":"Send review","widget_submit_success_msg_with_auto_publish":"Thank you! Please refresh the page in a few moments to see your review. You can remove or edit your review by logging into \u003ca href='https://judge.me/login' target='_blank' rel='nofollow noopener'\u003eJudge.me\u003c/a\u003e","widget_submit_success_msg_no_auto_publish":"Thank you for submitting your review! ","widget_show_default_reviews_out_of_total_text":"Showing {{ n_reviews_shown }} out of {{ n_reviews }} reviews.","widget_show_all_link_text":"Show all","widget_show_less_link_text":"Show less","widget_author_said_text":"{{ reviewer_name }} said:","widget_days_text":"{{ n }} days ago","widget_weeks_text":"{{ n }} week/weeks ago","widget_months_text":"{{ n }} month/months ago","widget_years_text":"{{ n }} year/years ago","widget_yesterday_text":"Yesterday","widget_today_text":"Today","widget_replied_text":"Flora \u0026 Curl replied:","widget_read_more_text":"Read more","widget_reviewer_name_as_initial":"last_initial","widget_rating_filter_color":"#2a7050","widget_rating_filter_see_all_text":"See all reviews","widget_sorting_most_recent_text":"Most Recent","widget_sorting_highest_rating_text":"Highest Rating","widget_sorting_lowest_rating_text":"Lowest Rating","widget_sorting_with_pictures_text":"Only Pictures","widget_sorting_most_helpful_text":"Most Helpful","widget_open_question_form_text":"Ask a question","widget_reviews_subtab_text":"Reviews","widget_questions_subtab_text":"Questions","widget_question_label_text":"Question","widget_answer_label_text":"Answer","widget_question_placeholder_text":"Write your question here","widget_submit_question_text":"Submit Question","widget_question_submit_success_text":"Thank you for your question! We will notify you once it gets answered.","widget_star_color":"#2a7050","verified_badge_text":"Verified Buyer","verified_badge_placement":"left-of-reviewer-name","widget_review_max_height":8,"widget_hide_border":false,"widget_social_share":false,"widget_thumb":false,"widget_review_location_show":false,"widget_location_format":"country_iso_code","all_reviews_include_out_of_store_products":true,"all_reviews_out_of_store_text":"(out of store)","all_reviews_product_name_prefix_text":"about","enable_review_pictures":true,"enable_question_anwser":true,"widget_theme":"leex","review_date_format":"dd/mm/yy","widget_product_reviews_subtab_text":"Product Reviews","widget_shop_reviews_subtab_text":"Shop Reviews","widget_sorting_pictures_first_text":"Pictures First","floating_tab_button_name":"★ REVIEWS","floating_tab_title":"Customer Reviews","floating_tab_button_color":"#ffffff","floating_tab_button_background_color":"#2a7050","floating_tab_url":"","floating_tab_url_enabled":true,"all_reviews_text_badge_text":"Customers rate all our products {{ shop.metafields.judgeme.all_reviews_rating | round: 1 }}/5","all_reviews_text_badge_text_branded_style":"{{ shop.metafields.judgeme.all_reviews_rating | round: 1 }} out of 5 stars based on {{ shop.metafields.judgeme.all_reviews_count }} reviews","all_reviews_text_badge_url":"","featured_carousel_title":"Read Our Customer Reviews","featured_carousel_count_text":"{{ n }} Reviews","featured_carousel_url":"","featured_carousel_autoslide_interval":9,"featured_carousel_arrows_on_the_sides":true,"featured_carousel_height":350,"featured_carousel_width":100,"featured_carousel_image_size":360,"featured_carousel_arrow_color":"#2a7050","verified_count_badge_url":"","picture_reminder_submit_button":"Upload My Results","widget_sorting_videos_first_text":"Videos First","widget_review_pending_text":"Pending","featured_carousel_items_for_large_screen":4,"remove_microdata_snippet":true,"preview_badge_no_question_text":"No questions","preview_badge_n_question_text":"{{ number_of_questions }} question/questions","remove_judgeme_branding":true,"widget_add_search_bar":true,"widget_search_bar_placeholder":"Search Reviews","widget_sorting_verified_only_text":"Verified only","all_reviews_page_load_reviews_on":"button_click","all_reviews_page_load_more_text":"Load More Reviews","widget_public_name_text":"displayed publicly like","default_reviewer_name_has_non_latin":true,"widget_reviewer_anonymous":"Anonymous","medals_widget_title":"Judge.me Review Medals","widget_invalid_yt_video_url_error_text":"Not a YouTube video URL","widget_max_length_field_error_text":"Please enter no more than {0} characters.","widget_show_country_flag":true,"widget_verified_by_shop_text":"Verified by Shop","widget_show_photo_gallery":true,"widget_load_with_code_splitting":true,"widget_ugc_title":"Made by us, Shared by you","widget_ugc_subtitle":"Tag us to see your picture featured in our page","widget_ugc_primary_button_text":"Buy Now","widget_ugc_secondary_button_text":"Load More","widget_ugc_reviews_button_text":"View Reviews","widget_rating_metafield_value_type":true,"widget_summary_average_rating_text":"{{ average_rating }} out of 5","widget_media_grid_title":"Customer photos \u0026 videos","widget_media_grid_see_more_text":"See more","widget_verified_by_judgeme_text":"Verified by Judge.me","widget_verified_by_judgeme_text_in_store_medals":"Verified by Judge.me","widget_media_field_exceed_quantity_message":"Sorry, we can only accept {{ max_media }} for one review.","widget_media_field_exceed_limit_message":"{{ file_name }} is too large, please select a {{ media_type }} less than {{ size_limit }}MB.","widget_review_submitted_text":"Review Submitted!","widget_question_submitted_text":"Question Submitted!","widget_close_form_text_question":"Cancel","widget_write_your_answer_here_text":"Write your answer here","widget_show_collected_by_judgeme":false,"widget_collected_by_judgeme_text":"collected by Judge.me","widget_load_more_text":"Load More","widget_full_review_text":"Full Review","widget_read_more_reviews_text":"Read More Reviews","widget_read_questions_text":"Read Questions","widget_questions_and_answers_text":"Questions \u0026 Answers","widget_verified_by_text":"Verified by","widget_number_of_reviews_text":"{{ number_of_reviews }} reviews","widget_back_button_text":"Back","widget_next_button_text":"Next","widget_custom_forms_filter_button":"Filters","custom_forms_style":"vertical","how_reviews_are_collected":"How reviews are collected?","preview_badge_collection_page_install_preference":true,"preview_badge_home_page_install_preference":true,"preview_badge_product_page_install_preference":true,"review_widget_install_preference":"above-related","review_carousel_install_preference":true,"floating_reviews_tab_install_preference":"left","platform":"shopify","branding_url":"https://judge.me/reviews/floracurl.myshopify.com","branding_text":"Powered by Judge.me","locale":"en","reply_name":"Flora \u0026 Curl ","widget_version":"2.1","footer":true,"autopublish":true,"review_dates":true,"enable_custom_form":true,"shop_use_review_site":true,"can_be_branded":false};</script> <style class='jdgm-settings-style'>.jdgm-xx{left:0}:not(.jdgm-prev-badge__stars)>.jdgm-star{color:#2a7050}.jdgm-histogram .jdgm-star.jdgm-star{color:#2a7050}.jdgm-preview-badge .jdgm-star.jdgm-star{color:#2a7050}.jdgm-histogram .jdgm-histogram__bar-content{background:#2a7050}.jdgm-histogram .jdgm-histogram__bar:after{background:#2a7050}.jdgm-prev-badge[data-average-rating='0.00']{display:none !important}.jdgm-author-fullname{display:none !important}.jdgm-author-all-initials{display:none !important}.jdgm-rev-widg__title{visibility:hidden}.jdgm-rev-widg__summary-text{visibility:hidden}.jdgm-prev-badge__text{visibility:hidden}.jdgm-rev__replier:before{content:'floracurl.co.uk'}.jdgm-rev__prod-link-prefix:before{content:'about'}.jdgm-rev__out-of-store-text:before{content:'(out of store)'}@media only screen and (min-width: 768px){.jdgm-rev__pics .jdgm-rev_all-rev-page-picture-separator,.jdgm-rev__pics .jdgm-rev__product-picture{display:none}}@media only screen and (max-width: 768px){.jdgm-rev__pics .jdgm-rev_all-rev-page-picture-separator,.jdgm-rev__pics .jdgm-rev__product-picture{display:none}}.jdgm-verified-count-badget[data-from-snippet="true"]{display:none !important}.jdgm-all-reviews-text[data-from-snippet="true"]{display:none !important}.jdgm-medals-section[data-from-snippet="true"]{display:none !important}.jdgm-ugc-media-wrapper[data-from-snippet="true"]{display:none !important}.jdgm-revs-tab-btn,.jdgm-revs-tab-btn:hover{background-color:#2a7050}.jdgm-revs-tab-btn,.jdgm-revs-tab-btn:hover{color:#ffffff}
+</style> <script data-cfasync="false" type="text/javascript" async src="https://cdn.judge.me/shopify_v2/leex.js" id="judgeme_widget_leex_js"></script>
+<link id="judgeme_widget_leex_css" rel="stylesheet" type="text/css" media="nope!" onload="this.media='all'" href="https://cdn.judge.me/shopify_v2/leex.css">
+
+  
+  
+  
+  <style class='jdgm-miracle-styles'>
+  @-webkit-keyframes jdgm-spin{0%{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);-ms-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes jdgm-spin{0%{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);-ms-transform:rotate(359deg);transform:rotate(359deg)}}@font-face{font-family:'JudgemeStar';src:url("data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAScAA0AAAAABrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAEgAAAABoAAAAcbyQ+3kdERUYAAARgAAAAHgAAACAAMwAGT1MvMgAAAZgAAABGAAAAVi+vS9xjbWFwAAAB8AAAAEAAAAFKwBMjvmdhc3AAAARYAAAACAAAAAj//wADZ2x5ZgAAAkAAAAEJAAABdH33LXtoZWFkAAABMAAAAC0AAAA2BroQKWhoZWEAAAFgAAAAHAAAACQD5QHQaG10eAAAAeAAAAAPAAAAFAYAAABsb2NhAAACMAAAAA4AAAAOAO4AeG1heHAAAAF8AAAAHAAAACAASgAvbmFtZQAAA0wAAADeAAABkorWfVZwb3N0AAAELAAAACkAAABEp3ubLXgBY2BkYADhPPP4OfH8Nl8ZuJkYQODS2fRrCPr/aSYGxq1ALgcDWBoAO60LkwAAAHgBY2BkYGDc+v80gx4TAwgASaAICmABAFB+Arl4AWNgZGBgYGPQYWBiAAIwyQgWc2AAAwAHVQB6eAFjYGRiYJzAwMrAwejDmMbAwOAOpb8ySDK0MDAwMbByMsCBAAMCBKS5pjA4PGB4wMR44P8BBj3GrQymQGFGkBwAjtgK/gAAeAFjYoAAEA1jAwAAZAAHAHgB3crBCcAwDEPRZydkih567CDdf4ZskmLwFBV8xBfCaC4BXkOUmx4sU0h2ngNb9V0vQCxaRKIAevT7fGWuBrEAAAAAAAAAAAA0AHgAugAAeAF9z79Kw1AUx/FzTm7un6QmJtwmQ5Bg1abgEGr/BAqlU6Gju+Cgg1MkQ/sA7Vj7BOnmO/gUvo2Lo14NqIO6/IazfD8HEODtmQCfoANwNsyp2/GJt3WKQrd1NLiYYWx2PBqOsmJMEOznPOTzfSCrhAtbbLdmeFLJV9eKd63WLrZcIcuaEVdssWCKM6pLCfTVOYbz/0pNSMSZKLIZpvh78sAUH6PlMrreTCabP9r+Z/puPZ2ur/RqpQHgh+MIegCnXeM4MRAPjYN//5tj4ZtTjkFqEdmeMShlEJ7tVAly2TAkx6R68Fl4E/aVvn8JqHFQ4JS1434gXKcuL31dDhzs3YbsEOAd/IU88gAAAHgBfY4xTgMxEEVfkk0AgRCioKFxQYd2ZRtpixxgRU2RfhU5q5VWseQ4JdfgAJyBlmNwAM7ABRhZQ0ORwp7nr+eZAa54YwYg9zm3ynPOeFRe8MCrciXOh/KSS76UV5L/iDmrLiS5AeU519wrL3jmSbkS5115yR2fyivJv9kx0ZMZ2RLZw27q87iNQi8EBo5FSPIMw3HqBboi5lKTGAGDp8FKXWP+t9TU01Lj5His1Ba6uM9dTEMwvrFmbf5GC/q2drW3ruXUhhsCiQOjznFlCzYhHUZp4xp76vsvQh89CQAAeAFjYGJABowM6IANLMrEyMTIzMjCXpyRWJBqZshWXJJYBKOMAFHFBucAAAAAAAAB//8AAngBY2BkYGDgA2IJBhBgAvKZGViBJAuYxwAABJsAOgAAeAFjYGBgZACCk535hiD60tn0azAaAEqpB6wAAA==") format("woff");font-weight:normal;font-style:normal}.jdgm-star{font-family:'JudgemeStar';display:inline !important;text-decoration:none !important;padding:0 4px 0 0 !important;margin:0 !important;font-weight:bold;opacity:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.jdgm-star:hover{opacity:1}.jdgm-star:last-of-type{padding:0 !important}.jdgm-star.jdgm--on:before{content:"\e000"}.jdgm-star.jdgm--off:before{content:"\e001"}.jdgm-star.jdgm--half:before{content:"\e002"}.jdgm-widget *{margin:0;line-height:1.4;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-overflow-scrolling:touch}.jdgm-hidden{display:none !important;visibility:hidden !important}.jdgm-temp-hidden{display:none}.jdgm-spinner{width:40px;height:40px;margin:auto;border-radius:50%;border-top:2px solid #eee;border-right:2px solid #eee;border-bottom:2px solid #eee;border-left:2px solid #ccc;-webkit-animation:jdgm-spin 0.8s infinite linear;animation:jdgm-spin 0.8s infinite linear}.jdgm-prev-badge{display:block !important}
+
+</style>
+
+
+  
+  
+   
+
+
+<script data-cfasync='false' class='jdgm-script'>
+!function(e){window.jdgm=window.jdgm||{},jdgm.CDN_HOST="https://cdn.judge.me/",
+jdgm.docReady=function(d){(e.attachEvent?"complete"===e.readyState:"loading"!==e.readyState)?
+setTimeout(d,0):e.addEventListener("DOMContentLoaded",d)},jdgm.loadCSS=function(d,t,o,a){
+!o&&jdgm.loadCSS.requestedUrls.indexOf(d)>=0||(jdgm.loadCSS.requestedUrls.push(d),
+(a=e.createElement("link")).rel="stylesheet",a.class="jdgm-stylesheet",a.media="nope!",
+a.href=d,a.onload=function(){this.media="all",t&&setTimeout(t)},e.body.appendChild(a))},
+jdgm.loadCSS.requestedUrls=[],jdgm.loadJS=function(e,d){var t=new XMLHttpRequest;
+t.onreadystatechange=function(){4===t.readyState&&(Function(t.response)(),d&&d(t.response))},
+t.open("GET",e),t.send()},jdgm.docReady((function(){(window.jdgmLoadCSS||e.querySelectorAll(
+".jdgm-widget, .jdgm-all-reviews-page").length>0)&&(jdgmSettings.widget_load_with_code_splitting?
+parseFloat(jdgmSettings.widget_version)>=3?jdgm.loadCSS(jdgm.CDN_HOST+"widget_v3/base.css"):
+jdgm.loadCSS(jdgm.CDN_HOST+"widget/base.css"):jdgm.loadCSS(jdgm.CDN_HOST+"shopify_v2.css"),
+jdgm.loadJS(jdgm.CDN_HOST+"loader.js"))}))}(document);
+</script>
+<noscript><link rel="stylesheet" type="text/css" media="all" href="https://cdn.judge.me/shopify_v2.css"></noscript>
+
+<!-- BEGIN app snippet: theme_fix_tags --><script>
+  (function() {
+    var jdgmThemeFixes = {"124190326858":{"html":"","css":"h2.jdgm-carousel-title {\n    margin-bottom: 15px !important;\n}\n@media screen and (min-width: 700px) {\n\n.jdgm-carousel-wrapper {\n  width: 100% !important;}\n}","js":""}};
+    if (!jdgmThemeFixes) return;
+    var thisThemeFix = jdgmThemeFixes[Shopify.theme.id];
+    if (!thisThemeFix) return;
+
+    if (thisThemeFix.html) {
+      document.addEventListener("DOMContentLoaded", function() {
+        var htmlDiv = document.createElement('div');
+        htmlDiv.classList.add('jdgm-theme-fix-html');
+        htmlDiv.innerHTML = thisThemeFix.html;
+        document.body.append(htmlDiv);
+      });
+    };
+
+    if (thisThemeFix.css) {
+      var styleTag = document.createElement('style');
+      styleTag.classList.add('jdgm-theme-fix-style');
+      styleTag.innerHTML = thisThemeFix.css;
+      document.head.append(styleTag);
+    };
+
+    if (thisThemeFix.js) {
+      var scriptTag = document.createElement('script');
+      scriptTag.classList.add('jdgm-theme-fix-script');
+      scriptTag.innerHTML = thisThemeFix.js;
+      document.head.append(scriptTag);
+    };
+  })();
+</script>
+<!-- END app snippet -->
+<!-- End of Judge.me Core -->
+
+
+
+
+<!-- END app app block --><script src="https://cdn.shopify.com/extensions/fcb0bb59-bba4-4066-bc3d-4a1987381870/trueprofit-profit-analytics-10/assets/embedded.js" type="text/javascript" defer="defer"></script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 15125012,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "blog"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 15125012,storefrontBaseUrl: "https://floracurl.co.uk",cdnBaseUrl: "https://floracurl.co.uk/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://floracurl.co.uk/cdn","browser","0.0.407","f25882c1w423ab3d2p8df04b18m261f6c04",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'GBP';
+var meta = {"page":{"pageType":"blog","resourceType":"blog","resourceId":91446596}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 15125012,
+      theme_id: 124190326858,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//floracurl.co.uk/cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//floracurl.co.uk/cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//floracurl.co.uk/cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":15125012,"isMerchantRequest":null,"themeId":124190326858,"themeCityHash":"18010398134469092118","contentLanguage":"en","currency":"GBP"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Google Analytics":{"trackingId":"UA-97366060-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1181866918574596"],"agent":"plshopify1.2"},"Google Gtag Pixel":{"conversionId":"G-C1KLDS6LYQ","eventLabels":[{"type":"purchase","action_label":"G-C1KLDS6LYQ"},{"type":"page_view","action_label":"G-C1KLDS6LYQ"},{"type":"view_item","action_label":"G-C1KLDS6LYQ"},{"type":"search","action_label":"G-C1KLDS6LYQ"},{"type":"add_to_cart","action_label":"G-C1KLDS6LYQ"},{"type":"begin_checkout","action_label":"G-C1KLDS6LYQ"},{"type":"add_payment_info","action_label":"G-C1KLDS6LYQ"}],"targetCountry":"GB"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"1181866918574596","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+        ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"blog","resourceType":"blog","resourceId":91446596});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//floracurl.co.uk/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Flora & Curl";
+  window.BOOMR.themeVersion = "1.0.0";
+  window.BOOMR.shopId = 15125012;
+  window.BOOMR.themeId = 124190326858;
+  window.BOOMR.renderRegion = "gcp-europe-west1";
+  window.BOOMR.url =
+    "https://floracurl.co.uk/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head> 
+
+
+  <body class="template-blog template-full--blog-curl-blog" 
+  data-lazy-load 
+  data-object-fit 
+  data-quicklink 
+  data-marquee 
+  data-set-css-var='
+  {
+    "selector": ".site-header",
+    "get": "height",
+    "var": "--header-height",
+    "updateOnResize": true
+  }
+  '>
+    
+    <header id="shopify-section-header" class="shopify-section site-header">
+
+
+
+
+
+    <div 
+        class="announcement-bar" 
+        data-announcement-bar
+        style="
+            --announcement-bar-height: 39px;
+            
+            --announcement-bar-gradient-desktop: linear-gradient(90deg, rgba(213, 230, 219, 1) 3%, rgba(193, 224, 229, 1) 19%, rgba(216, 198, 228, 1) 35%, rgba(236, 200, 208, 1) 57%, rgba(234, 202, 166, 1) 75%, rgba(213, 230, 219, 1) 100%);
+            
+            
+            --announcement-bar-gradient-mobile: linear-gradient(90deg, rgba(213, 230, 219, 1) 3%, rgba(193, 224, 229, 1) 19%, rgba(216, 198, 228, 1) 35%, rgba(236, 200, 208, 1) 57%, rgba(234, 202, 166, 1) 75%, rgba(213, 230, 219, 1) 100%);
+            
+            
+            --announcement-bar-bg-color: #010101;
+            
+            --announcement-bar-text-color: #2a7050">
+        <ul class="announcement-bar__list"
+          data-keen-slider='{
+            
+            "vertical": true,
+            "slides": {
+              "origin": "center",
+              "perView": 1
+            },
+            
+            "autoplay": true,
+            "autoplaySpeed": 2500.0,
+            "pauseAutoplayOnHover": true,
+            "loop": true
+          }'
+        >
+          
+            <li class="announcement-bar__item keen-slider__slide"><strong>Free UK shipping for all orders over £40</strong></li>
+          
+        </ul>
+            
+    </div>
+
+
+
+
+<div class="header-inner flex f-j-between f-a-center" data-mega-menus>
+  
+  <nav class="nav-area">
+    
+    <ul class="flex f-grid f-grid--l big-desktop-only">
+      
+      
+        <li>
+  <a href="/collections/all-products" class="nav-item flex f-a-center" data-nav-item>
+    Shop Now
+  </a>
+  
+    
+
+<div class="mega-menu mega-menu-0" data-mega-menu style="--column-count: 4">
+  
+  <div class="mega-menu-inner" data-mega-menu-inner>
+      
+    <div class="flex f-grid f-grid--xxl">
+        
+
+        
+<ul class="menu-area">
+          <li>
+            <a href="#" class="flex f-a-center f-j-between menu-area__heading"
+            data-class-change='[
+              {
+                "target": ".mega-menu-0 .menu-area a",
+                "class": "active",
+                "method": "remove",
+                "on": "mouseenter"
+              },
+              {
+                "target": "this",
+                "class": "active",
+                "method": "add",
+                "on": "mouseenter"
+              }
+            ]'>
+              Shop by Curl Goal
+            </a>
+          </li>
+
+          
+
+
+          <a href="/collections/style-me" class="collection-area">
+                  <div class="image-hover-zoom">
+                    <img data-lazy data-src="//floracurl.co.uk/cdn/shop/files/Style_Me_Range.jpg?v=1700216114&width=160" alt="" class="collection-area__image" />
+                  </div>
+                  <div>
+                    
+                      <h5 class="collection-area__title" style="--color: #c028b9;">style me.</h5>
+                    
+                    
+                      <p class="collection-area__subtitle">Definition and volume</p>
+                    
+                  </div>
+                </a><a href="/collections/hydrate-me" class="collection-area">
+                  <div class="image-hover-zoom">
+                    <img data-lazy data-src="//floracurl.co.uk/cdn/shop/files/FC_HR_032_REV-min.jpg?v=1700216105&width=160" alt="" class="collection-area__image" />
+                  </div>
+                  <div>
+                    
+                      <h5 class="collection-area__title" style="--color: #fa7598;">hydrate me.</h5>
+                    
+                    
+                      <p class="collection-area__subtitle">Moisture and hydration</p>
+                    
+                  </div>
+                </a><a href="/collections/soothe-me" class="collection-area">
+                  <div class="image-hover-zoom">
+                    <img data-lazy data-src="//floracurl.co.uk/cdn/shop/files/Soothe_Me_Range_4d25979d-73d4-44ea-aacc-9c872b153cd6.jpg?v=1700215831&width=160" alt="" class="collection-area__image" />
+                  </div>
+                  <div>
+                    
+                      <h5 class="collection-area__title" style="--color: #00adbb;">soothe me.</h5>
+                    
+                    
+                      <p class="collection-area__subtitle">Balanced and calm scalp</p>
+                    
+                  </div>
+                </a><a href="/collections/protect-me" class="collection-area">
+                  <div class="image-hover-zoom">
+                    <img data-lazy data-src="//floracurl.co.uk/cdn/shop/files/Protect_Me_Range_4f1b0b43-ea44-4a41-81a3-e2c3e34e46a0.jpg?v=1700074733&width=160" alt="" class="collection-area__image" />
+                  </div>
+                  <div>
+                    
+                      <h5 class="collection-area__title" style="--color: #ff671d;">protect me.</h5>
+                    
+                    
+                      <p class="collection-area__subtitle">Radiance and protection</p>
+                    
+                  </div>
+                </a>
+
+          
+          
+          </ul>
+        
+<ul class="menu-area">
+          <li>
+            <a href="#" class="flex f-a-center f-j-between menu-area__heading"
+            data-class-change='[
+              {
+                "target": ".mega-menu-0 .menu-area a",
+                "class": "active",
+                "method": "remove",
+                "on": "mouseenter"
+              },
+              {
+                "target": "this",
+                "class": "active",
+                "method": "add",
+                "on": "mouseenter"
+              }
+            ]'>
+              Shop by Product Type
+            </a>
+          </li>
+
+          
+            <ul>
+              
+              <li>
+                <a href="/collections/cleansers">
+                  
+                    Cleansers
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/conditioners">
+                  
+                    Conditioners
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/moisturisers-and-mists">
+                  
+                    Moisturisers & Mists
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/masks">
+                  
+                    Masks
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/oils">
+                  
+                    Oils
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/stylers">
+                  
+                    Stylers
+                  
+                  </a>
+              </li>
+              
+            </ul>
+          
+
+
+          
+
+          <a href="/pages/curl-quiz" class="cta-area cta-area--spaced cta-area--button" style="
+                --color: #2a7050;
+                
+                --border-gradient: linear-gradient(90deg, rgba(213, 230, 219, 1) 3%, rgba(193, 224, 229, 1) 19%, rgba(216, 198, 228, 1) 35%, rgba(236, 200, 208, 1) 57%, rgba(234, 202, 166, 1) 75%, rgba(213, 230, 219, 1) 100%);
+                ">
+                  <h5>Take the curl <em>quiz</em></h5>
+                </a>
+          
+          </ul>
+        
+<ul class="menu-area">
+          <li>
+            <a href="/collections" class="flex f-a-center f-j-between menu-area__heading"
+            data-class-change='[
+              {
+                "target": ".mega-menu-0 .menu-area a",
+                "class": "active",
+                "method": "remove",
+                "on": "mouseenter"
+              },
+              {
+                "target": "this",
+                "class": "active",
+                "method": "add",
+                "on": "mouseenter"
+              }
+            ]'>
+              Shop by Hair Concern
+            </a>
+          </li>
+
+          
+            <ul>
+              
+              <li>
+                <a href="/collections/dry-curls">
+                  
+                    Dry Hair
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/frizzy-hair">
+                  
+                    Frizzy Hair
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/lack-of-definition">
+                  
+                    Lack of Definition
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/lack-of-volume">
+                  
+                    Lack of Volume
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/dullness">
+                  
+                    Dull Hair
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/flaky-itchy-irritated-scalp">
+                  
+                    Scalp Discomfort & Flakiness
+                  
+                  </a>
+              </li>
+              
+            </ul>
+          
+
+
+          
+
+          
+          
+          </ul>
+        
+<ul class="menu-area">
+          <li>
+            <a href="#" class="flex f-a-center f-j-between menu-area__heading"
+            data-class-change='[
+              {
+                "target": ".mega-menu-0 .menu-area a",
+                "class": "active",
+                "method": "remove",
+                "on": "mouseenter"
+              },
+              {
+                "target": "this",
+                "class": "active",
+                "method": "add",
+                "on": "mouseenter"
+              }
+            ]'>
+              Shop the Curl Edit
+            </a>
+          </li>
+
+          
+            <ul>
+              
+              <li>
+                <a href="/collections/best-sellers">
+                  
+                    Bestsellers
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/gifts">
+                  
+                    Gift Ideas
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/products/gift-voucher">
+                  
+                    Gift Card
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/vegan-friendly">
+                  
+                    Vegan Friendly
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/collections/all-products">
+                  
+                    Shop All
+                  
+                  </a>
+              </li>
+              
+            </ul>
+          
+
+
+          
+
+          
+          
+          </ul>
+        
+
+        
+
+    </div>
+
+  </div>
+
+</div>
+  
+</li>
+      
+        <li>
+  <a href="/pages/rewards" class="nav-item flex f-a-center" >
+    Rewards Club
+  </a>
+  
+</li>
+      
+        <li>
+  <a href="/collections/subscriptions" class="nav-item flex f-a-center" >
+    Subscribe & Save
+  </a>
+  
+</li>
+      
+
+    </ul>
+
+    
+    
+    <ul class="flex f-grid--m f-a-center small-desktop-only">
+      <li>
+        <button class="burger-menu-container" name="mobile nav" 
+      data-class-change='[
+        {
+          "method": "toggle",
+          "on": "click",
+          "target": ".mobile-nav",
+          "class": "open"
+        },
+        {
+          "method": "toggle",
+          "on": "click",
+          "target": ".burger-menu-container",
+          "class": "active"
+        },
+        {
+          "target": ".search-dropdown",
+          "class": "open",
+          "method": "remove",
+          "on": "click"
+        }
+      ]' 
+      data-lock-scroll='
+        [
+            {
+                "target": ".mobile-nav",
+                "method": "toggleScroll",
+                "preventDefault": true,
+                "on": "click"
+            }
+        ]
+      '
+    >
+          <div class="burger-menu-container__burger"><svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M18.5.5h-17a1.5 1.5 0 1 0 0 3h17a1.5 1.5 0 0 0 0-3zM18.5 6.5h-17a1.5 1.5 0 1 0 0 3h17a1.5 1.5 0 0 0 0-3zM18.5 12.5h-17a1.5 1.5 0 0 0 0 3h17a1.5 1.5 0 0 0 0-3z" fill="#2A7050"/>
+</svg>
+</div>
+          <div class="burger-menu-container__close"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M16.2045 5.46044L12 9.66491L7.79553 5.46044C7.15072 4.81562 6.10526 4.81562 5.46044 5.46044C4.81562 6.10526 4.81562 7.15072 5.46044 7.79553L9.66491 12L5.46044 16.2045C4.81562 16.8493 4.81562 17.8947 5.46044 18.5396C6.10526 19.1844 7.15071 19.1844 7.79553 18.5396L12 14.3351L16.2045 18.5396C16.8493 19.1844 17.8947 19.1844 18.5396 18.5396C19.1844 17.8947 19.1844 16.8493 18.5396 16.2045L14.3351 12L18.5396 7.79553C19.1844 7.15072 19.1844 6.10526 18.5396 5.46044C17.8947 4.81562 16.8493 4.81562 16.2045 5.46044Z" fill="#2A7050" stroke="#2A7050"/>
+</svg></div>
+        </button>
+      </li>
+    </ul>
+
+  </nav>
+
+  <div class="middle-area">
+    
+    <a href="https://floracurl.co.uk">
+      
+      <img src="//floracurl.co.uk/cdn/shop/files/ic-main-logo_small.svg?v=1694424906" alt="Flora &amp; Curl ">
+    </a>
+
+  </div>
+
+  <nav class="nav-area nav-area--right flex f-j-end f-a-center">
+    
+    <ul class="flex f-grid f-grid--l big-desktop-only">
+      
+        <li>
+  <a href="/pages/reviews" class="nav-item flex f-a-center" >
+    Reviews
+  </a>
+  
+</li>
+      
+        <li>
+  <a href="/blogs/curl-blog" class="nav-item flex f-a-center" data-nav-item>
+    Curl Advice
+  </a>
+  
+    
+
+<div class="mega-menu mega-menu-1" data-mega-menu style="--column-count: 3">
+  
+  <div class="mega-menu-inner" data-mega-menu-inner>
+      
+    <div class="flex f-grid f-grid--xxl">
+        
+
+        
+<ul class="menu-area">
+          <li>
+            <a href="/blogs/curl-blog" class="flex f-a-center f-j-between menu-area__heading"
+            data-class-change='[
+              {
+                "target": ".mega-menu-1 .menu-area a",
+                "class": "active",
+                "method": "remove",
+                "on": "mouseenter"
+              },
+              {
+                "target": "this",
+                "class": "active",
+                "method": "add",
+                "on": "mouseenter"
+              }
+            ]'>
+              The Curl Blog
+            </a>
+          </li>
+
+          
+            <ul>
+              
+              <li>
+                <a href="https://floracurl.co.uk/blogs/curl-blog/everything-you-need-to-know-about-your-natural-hair">
+                  
+                    How To Have Curl Confidence
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="https://floracurl.co.uk/blogs/curl-blog/how-to-care-for-curly-hair-naturally-12-top-tips-for-health-growth">
+                  
+                    12 Key Tips To Grow Healthy Hair
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/blogs/curl-blog/how-to-get-rid-of-scalp-build-up">
+                  
+                    How To Get Rid Of Scalp Build Up
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="https://floracurl.co.uk/blogs/curl-blog/10-tips-to-care-for-curls-in-the-cold">
+                  
+                    10 Tips To Care For Curls In The Cold
+                  
+                  </a>
+              </li>
+              
+            </ul>
+          
+
+
+          
+
+          <a href="/blogs/curl-blog" class="cta-area  cta-area--button" style="
+                --color: #2a7050;
+                
+                --border-gradient: #d5e6db 3%, #c1e0e5 19%, #d8c6e4 35%, #ecc8d0 57%, #eacaa6 75%, #d5e6db 100%;
+                ">
+                  <h5>Visit <em>The Curl Blog</em></h5>
+                </a>
+          
+          </ul>
+        
+
+        <a href="/blogs/hair-stories" class="image-area">
+        <div class="image-hover-zoom">
+          <img data-lazy data-src="//floracurl.co.uk/cdn/shop/files/18-min.jpg?v=1700175389&width=600" alt="">
+        </div>
+        
+          <h5 class="image-area__title">#RealHairStories</h5>
+        
+        
+          <p class="image-area__subtitle">Transformation stories from our customers</p>
+        
+      </a><a href="/blogs/curl-blog" class="image-area">
+        <div class="image-hover-zoom">
+          <img data-lazy data-src="//floracurl.co.uk/cdn/shop/files/ic-image_3x_f1795ba3-3de1-4896-9a39-2a1b161d40ef.jpg?v=1694435293&width=600" alt="">
+        </div>
+        
+          <h5 class="image-area__title">The Curl Blog</h5>
+        
+        
+          <p class="image-area__subtitle">Read the latest on the blog</p>
+        
+      </a>
+
+    </div>
+
+  </div>
+
+</div>
+  
+</li>
+      
+        <li>
+  <a href="/pages/sustainability" class="nav-item flex f-a-center" data-nav-item>
+    Sustainability
+  </a>
+  
+    
+
+<div class="mega-menu mega-menu-2" data-mega-menu style="--column-count: 1">
+  
+  <div class="mega-menu-inner" data-mega-menu-inner>
+      
+    <div class="flex f-grid f-grid--xxl">
+        
+
+        
+<ul class="menu-area">
+          <li>
+            <a href="#" class="flex f-a-center f-j-between menu-area__heading"
+            data-class-change='[
+              {
+                "target": ".mega-menu-2 .menu-area a",
+                "class": "active",
+                "method": "remove",
+                "on": "mouseenter"
+              },
+              {
+                "target": "this",
+                "class": "active",
+                "method": "add",
+                "on": "mouseenter"
+              }
+            ]'>
+              Learn More
+            </a>
+          </li>
+
+          
+            <ul>
+              
+              <li>
+                <a href="/pages/sustainability">
+                  
+                    Sustainability Journey
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/pages/about-us">
+                  
+                    About Us
+                  
+                  </a>
+              </li>
+              
+              <li>
+                <a href="/pages/ingredients">
+                  
+                    Key Ingredients
+                  
+                  </a>
+              </li>
+              
+            </ul>
+          
+
+
+          
+
+          
+          
+          </ul>
+        
+
+        
+
+    </div>
+
+  </div>
+
+</div>
+  
+</li>
+      
+    </ul>
+
+    <ul class="icon-nav flex f-a-center">
+
+
+      
+        <li>
+          <a href="/account/login">
+            <img data-lazy data-src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-account.svg?v=140512224225674970521700130282" alt="Account" class="header-icon" height="16" width="16">
+          </a>
+        </li>
+      
+
+      <li class="big-desktop-only">
+        <a href="/search" class="search-trigger" data-class-change='[
+          {
+            "target": ".search-dropdown",
+            "class": "open",
+            "method": "add",
+            "on": "click",
+            "preventDefault": true
+          },
+          {
+            "method": "remove",
+            "on": "click",
+            "target": ".mobile-nav",
+            "class": "open",
+            "preventDefault": true
+          },
+          {
+            "method": "remove",
+            "on": "click", 
+            "target": ".burger-menu-container",
+            "class": "active",
+            "preventDefault": true
+          },
+          {
+            "target": ".site-header .header-outer",
+            "class": "search-open",
+            "method": "add",
+            "on": "click"
+          }
+      ]'
+
+      data-lock-scroll='
+        [
+          {
+            "target": ".search-dropdown",
+            "method": "lockScroll",
+            "on": "click"
+          }
+        ]'
+
+        data-focus-on='[
+          {
+            "target": ".search-dropdown [data-ajax-search-input]",
+            "on":  "click",
+            "waitFor": 500
+          }
+
+        ]'>
+          <img data-lazy data-src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-search.svg?v=113401096825623389191700130263" alt="Search" class="header-icon" height="16" width="16">
+        </a>
+      </li>
+
+      <li>
+        <a href="/cart" data-cart-mount class="cart-trigger" data-class-change='
+        [
+            {
+                "target": ".side-cart",
+                "class": "shown",
+                "method": "add",
+                "on": "click",
+                "preventDefault": true
+            }
+        ]
+      '  data-lock-scroll='
+      [
+          {
+              "target": ".side-cart .main-items",
+              "method": "lockScroll",
+              "on": "click",
+              "preventDefault": true
+          }
+      ]
+  '>
+          <img data-lazy data-src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-cart.svg?v=34770973967778049841700130245" alt="Cart" class="header-icon" height="16" width="16">
+          <span rv-text="data.cart.item_count" rv-class-shown="data.cart.item_count | gt 0">0</span>
+        </a>
+      </li>
+    </ul>
+
+  </nav>
+
+  <div class="search-dropdown" data-ajax-search
+data-class-change='[
+  {
+    "target": ".search-dropdown",
+    "class": "open",
+    "method": "remove",
+    "whenOutside": true,
+    "whenOutsideExcept": ".search-trigger",
+    "on": "click"
+  },
+  { 
+    "target": ".site-header .header-outer",
+    "class": "search-open",
+    "method": "remove",
+    "whenOutside": true,
+    "whenOutsideExcept": ".search-trigger",
+    "on": "click"
+  },
+  { 
+    "target": ".site-header",
+    "class": "dropdown-open",
+    "method": "remove",
+    "whenOutside": true,
+    "whenOutsideExcept": ".search-trigger",
+    "ifHasClass": "open",
+    "on": "click"
+  }
+]'
+
+data-lock-scroll='
+[
+  {
+    "target": ".search-dropdown",
+    "method": "unlockScroll",
+    "on": "click",
+    "whenOutside": true,
+    "whenOutsideExcept": ".search-trigger"
+  }
+] 
+'
+
+>
+
+<div class="top-area">
+  <div class="wrapper">
+
+    <div class="flex f-a-center">
+      
+      <button type="button" class="close-search-dropdown" data-class-change='[
+        {
+          "target": ".search-dropdown",
+          "class": "open",
+          "method": "remove",
+          "on": "click"
+        },
+        {
+          "target": "body",
+          "class": "no-scroll",
+          "method": "remove",
+          "on": "click"
+        },
+        {
+          "target": ".site-header .header-outer",
+          "class": "search-open",
+          "method": "remove",
+          "on": "click"
+        },
+        { 
+          "target": ".site-header",
+          "class": "dropdown-open",
+          "method": "remove",
+          "on": "click"
+        }
+      ]' data-lock-scroll='
+      [
+      {
+        "target": ".search-dropdown",
+        "method": "unlockScroll",
+        "on": "click"
+      }
+      ]
+      ' data-ajax-search-exit>
+        <img data-lazy data-src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-remove.svg?v=67005448974569417261694420053" alt="Hide Search">
+      </button>
+
+      <form action="/search" data-mega-menu-inner data-ajax-search-form class="search-form flex f-j-between f-a-center">
+
+        <div class="inner">
+          
+          <input type="hidden" name="type" value="product">
+
+          <img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-search.svg?v=113401096825623389191700130263" alt="Search">
+
+          <input type="search" name="q" required placeholder="Search Products" data-ajax-search-input>
+
+        </div>
+
+        <button class="desktop-only" data-ajax-search-clear>Clear</button>
+
+      </form>
+
+
+    </div>
+    
+    
+
+  </div>
+</div>
+
+<div class="main-area">
+  <div class="wrapper">
+
+    <div class="search-results product-items-area" data-ajax-search-results></div>
+
+  </div>
+</div>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+<div class="mobile-nav">
+
+
+  <div class="mobile-nav__main">
+
+    <form action="/search" class="mobile-nav__search">
+      <input type="search" name="q" placeholder="Search Products">
+      <button type="submit">
+        <img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-search.svg?v=113401096825623389191700130263" alt="" />
+      </button>
+    </form>
+    
+    <div class="mobile-nav__menu">
+      <ul>
+
+  
+
+    
+
+    <li class="mobile-menu-link-shop-all">
+      <a href="/collections/all-products" class="flex f-a-center f-j-between top-level-link"
+      >
+        <span>Shop All</span>
+        
+      </a>
+
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-shop-by-curl-goal">
+      <a href="#" class="flex f-a-center f-j-between top-level-link"
+      
+      data-class-change='
+        [
+            {
+                "target": ".mobile-menu-link-shop-by-curl-goal",
+                "method": "add",
+                "preventDefault": true,
+                "class": "is-active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-menu-sub-shop-by-curl-goal",
+                "method": "add",
+                "preventDefault": true,
+                "class": "active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-nav",
+                "method": "add",
+                "preventDefault": true,
+                "class": "sub-menu-open",
+                "on": "click"
+            }
+        ]
+      '
+      >
+        <span>Shop by Curl Goal</span>
+        
+          <img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="Shop by Curl Goal">
+        
+      </a>
+
+      
+        <ul class="mobile-menu-sub mobile-menu-sub-shop-by-curl-goal">
+          <div class="mobile-menu-sub__header" data-class-change='
+          [
+              {
+                  "target": ".mobile-menu-link-shop-by-curl-goal",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "is-active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-menu-sub-shop-by-curl-goal",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-nav",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "sub-menu-open",
+                  "on": "click"
+              }
+          ]
+        '>
+          <span><img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="" /></span>  
+          Shop by Curl Goal
+          </div>
+          
+
+          
+            <a href="/collections/style-me" class="collection-area">
+            <img src="//floracurl.co.uk/cdn/shop/files/Style_Me_Range.jpg?v=1700216114&amp;width=160" alt="" srcset="//floracurl.co.uk/cdn/shop/files/Style_Me_Range.jpg?v=1700216114&amp;width=160 160w" width="160" height="160" class="collection-area__image">
+            <div>
+              
+                <h5 class="collection-area__title" style="--color: #c028b9;">style me.</h5>
+              
+              
+                <p class="collection-area__subtitle">Definition and volume</p>
+              
+            </div>
+          </a><a href="/collections/hydrate-me" class="collection-area">
+            <img src="//floracurl.co.uk/cdn/shop/files/FC_HR_032_REV-min.jpg?v=1700216105&amp;width=160" alt="" srcset="//floracurl.co.uk/cdn/shop/files/FC_HR_032_REV-min.jpg?v=1700216105&amp;width=160 160w" width="160" height="160" class="collection-area__image">
+            <div>
+              
+                <h5 class="collection-area__title" style="--color: #fa7598;">hydrate me.</h5>
+              
+              
+                <p class="collection-area__subtitle">Moisture and hydration</p>
+              
+            </div>
+          </a><a href="/collections/soothe-me" class="collection-area">
+            <img src="//floracurl.co.uk/cdn/shop/files/Soothe_Me_Range_4d25979d-73d4-44ea-aacc-9c872b153cd6.jpg?v=1700215831&amp;width=160" alt="" srcset="//floracurl.co.uk/cdn/shop/files/Soothe_Me_Range_4d25979d-73d4-44ea-aacc-9c872b153cd6.jpg?v=1700215831&amp;width=160 160w" width="160" height="160" class="collection-area__image">
+            <div>
+              
+                <h5 class="collection-area__title" style="--color: #00adbb;">soothe me.</h5>
+              
+              
+                <p class="collection-area__subtitle">Balanced and calm scalp</p>
+              
+            </div>
+          </a><a href="/collections/protect-me" class="collection-area">
+            <img src="//floracurl.co.uk/cdn/shop/files/Protect_Me_Range_4f1b0b43-ea44-4a41-81a3-e2c3e34e46a0.jpg?v=1700074733&amp;width=160" alt="" srcset="//floracurl.co.uk/cdn/shop/files/Protect_Me_Range_4f1b0b43-ea44-4a41-81a3-e2c3e34e46a0.jpg?v=1700074733&amp;width=160 160w" width="160" height="160" class="collection-area__image">
+            <div>
+              
+                <h5 class="collection-area__title" style="--color: #ff671d;">protect me.</h5>
+              
+              
+                <p class="collection-area__subtitle">Radiance and protection</p>
+              
+            </div>
+          </a>
+          
+
+          
+            <a href="/pages/curl-quiz" class="cta-area  cta-area--button" style="
+          --color: #2a7050;
+          
+          --border-gradient: linear-gradient(90deg, rgba(213, 230, 219, 1) 3%, rgba(193, 224, 229, 1) 19%, rgba(216, 198, 228, 1) 35%, rgba(236, 200, 208, 1) 57%, rgba(234, 202, 166, 1) 75%, rgba(213, 230, 219, 1) 100%);
+          ">
+            <h5>Take the curl <em>quiz</em></h5>
+          </a>
+          
+
+          
+        </ul>
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-shop-by-product-type">
+      <a href="/" class="flex f-a-center f-j-between top-level-link"
+      
+      data-class-change='
+        [
+            {
+                "target": ".mobile-menu-link-shop-by-product-type",
+                "method": "add",
+                "preventDefault": true,
+                "class": "is-active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-menu-sub-shop-by-product-type",
+                "method": "add",
+                "preventDefault": true,
+                "class": "active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-nav",
+                "method": "add",
+                "preventDefault": true,
+                "class": "sub-menu-open",
+                "on": "click"
+            }
+        ]
+      '
+      >
+        <span>Shop by Product Type</span>
+        
+          <img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="Shop by Product Type">
+        
+      </a>
+
+      
+        <ul class="mobile-menu-sub mobile-menu-sub-shop-by-product-type">
+          <div class="mobile-menu-sub__header" data-class-change='
+          [
+              {
+                  "target": ".mobile-menu-link-shop-by-product-type",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "is-active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-menu-sub-shop-by-product-type",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-nav",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "sub-menu-open",
+                  "on": "click"
+              }
+          ]
+        '>
+          <span><img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="" /></span>  
+          Shop by Product Type
+          </div>
+                      
+            <li>
+              <a href="/collections/cleansers">
+                Cleansers
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/conditioners">
+                Conditioners
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/moisturisers-and-mists">
+                Moisturisers & Mists
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/masks">
+                Masks
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/oils">
+                Oils
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/stylers">
+                Stylers
+              </a>
+            </li>
+          
+
+          
+
+          
+
+          
+        </ul>
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-shop-by-hair-concern">
+      <a href="#" class="flex f-a-center f-j-between top-level-link"
+      
+      data-class-change='
+        [
+            {
+                "target": ".mobile-menu-link-shop-by-hair-concern",
+                "method": "add",
+                "preventDefault": true,
+                "class": "is-active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-menu-sub-shop-by-hair-concern",
+                "method": "add",
+                "preventDefault": true,
+                "class": "active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-nav",
+                "method": "add",
+                "preventDefault": true,
+                "class": "sub-menu-open",
+                "on": "click"
+            }
+        ]
+      '
+      >
+        <span>Shop by Hair Concern</span>
+        
+          <img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="Shop by Hair Concern">
+        
+      </a>
+
+      
+        <ul class="mobile-menu-sub mobile-menu-sub-shop-by-hair-concern">
+          <div class="mobile-menu-sub__header" data-class-change='
+          [
+              {
+                  "target": ".mobile-menu-link-shop-by-hair-concern",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "is-active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-menu-sub-shop-by-hair-concern",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-nav",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "sub-menu-open",
+                  "on": "click"
+              }
+          ]
+        '>
+          <span><img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="" /></span>  
+          Shop by Hair Concern
+          </div>
+                      
+            <li>
+              <a href="/collections/dry-curls">
+                Dry Hair
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/frizzy-hair">
+                Frizzy Hair
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/lack-of-definition">
+                Lack of Definition
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/lack-of-volume">
+                Lack of Volume
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/dullness">
+                Dull Hair
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/flaky-itchy-irritated-scalp">
+                Scalp Discomfort & Flakiness
+              </a>
+            </li>
+          
+
+          
+
+          
+
+          
+        </ul>
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-shop-the-curl-edit">
+      <a href="#" class="flex f-a-center f-j-between top-level-link"
+      
+      data-class-change='
+        [
+            {
+                "target": ".mobile-menu-link-shop-the-curl-edit",
+                "method": "add",
+                "preventDefault": true,
+                "class": "is-active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-menu-sub-shop-the-curl-edit",
+                "method": "add",
+                "preventDefault": true,
+                "class": "active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-nav",
+                "method": "add",
+                "preventDefault": true,
+                "class": "sub-menu-open",
+                "on": "click"
+            }
+        ]
+      '
+      >
+        <span>Shop the Curl Edit</span>
+        
+          <img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="Shop the Curl Edit">
+        
+      </a>
+
+      
+        <ul class="mobile-menu-sub mobile-menu-sub-shop-the-curl-edit">
+          <div class="mobile-menu-sub__header" data-class-change='
+          [
+              {
+                  "target": ".mobile-menu-link-shop-the-curl-edit",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "is-active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-menu-sub-shop-the-curl-edit",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-nav",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "sub-menu-open",
+                  "on": "click"
+              }
+          ]
+        '>
+          <span><img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="" /></span>  
+          Shop the Curl Edit
+          </div>
+                      
+            <li>
+              <a href="/collections/best-sellers">
+                Bestsellers
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/products/gift-voucher">
+                Gift Card
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/vegan-friendly">
+                Vegan Friendly
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/gifts">
+                Gift Ideas
+              </a>
+            </li>
+                      
+            <li>
+              <a href="/collections/all-products">
+                Shop All
+              </a>
+            </li>
+          
+
+          
+
+          
+
+          
+        </ul>
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-rewards-club">
+      <a href="/pages/rewards" class="flex f-a-center f-j-between top-level-link"
+      >
+        <span>Rewards Club</span>
+        
+      </a>
+
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-subscribe-save">
+      <a href="/collections/subscriptions" class="flex f-a-center f-j-between top-level-link"
+      >
+        <span>Subscribe & Save</span>
+        
+      </a>
+
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-curl-advice">
+      <a href="#" class="flex f-a-center f-j-between top-level-link"
+      
+      data-class-change='
+        [
+            {
+                "target": ".mobile-menu-link-curl-advice",
+                "method": "add",
+                "preventDefault": true,
+                "class": "is-active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-menu-sub-curl-advice",
+                "method": "add",
+                "preventDefault": true,
+                "class": "active",
+                "on": "click"
+            },
+            {
+                "target": ".mobile-nav",
+                "method": "add",
+                "preventDefault": true,
+                "class": "sub-menu-open",
+                "on": "click"
+            }
+        ]
+      '
+      >
+        <span>Curl Advice</span>
+        
+          <img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="Curl Advice">
+        
+      </a>
+
+      
+        <ul class="mobile-menu-sub mobile-menu-sub-curl-advice">
+          <div class="mobile-menu-sub__header" data-class-change='
+          [
+              {
+                  "target": ".mobile-menu-link-curl-advice",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "is-active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-menu-sub-curl-advice",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "active",
+                  "on": "click"
+              },
+              {
+                  "target": ".mobile-nav",
+                  "method": "remove",
+                  "preventDefault": true,
+                  "class": "sub-menu-open",
+                  "on": "click"
+              }
+          ]
+        '>
+          <span><img src="//floracurl.co.uk/cdn/shop/t/109/assets/icon-arrow-right.svg?v=88503788948265414771694514050" alt="" /></span>  
+          Curl Advice
+          </div>
+                      
+            <li>
+              <a href="https://floracurl.co.uk/blogs/curl-blog/everything-you-need-to-know-about-your-natural-hair">
+                How To Have Curl Confidence
+              </a>
+            </li>
+                      
+            <li>
+              <a href="https://floracurl.co.uk/blogs/curl-blog/how-to-care-for-curly-hair-naturally-12-top-tips-for-health-growth">
+                12 Key Tips To Grow Healthy Natural Hair
+              </a>
+            </li>
+                      
+            <li>
+              <a href="https://floracurl.co.uk/blogs/curl-blog/how-to-get-rid-of-scalp-build-up">
+                How To Get Rid Of Scalp Build Up
+              </a>
+            </li>
+                      
+            <li>
+              <a href="https://floracurl.co.uk/blogs/curl-blog/10-tips-to-care-for-curls-in-the-cold">
+                10 Tips To Care For Curls In The Cold
+              </a>
+            </li>
+          
+
+          
+
+          
+
+          
+            <a href="/blogs/hair-stories" class="image-area">
+            <img src="//floracurl.co.uk/cdn/shop/files/18-min.jpg?v=1700175389&amp;width=160" alt="" srcset="//floracurl.co.uk/cdn/shop/files/18-min.jpg?v=1700175389&amp;width=160 160w" width="160" height="160">
+            <div>
+              
+                <h5 class="image-area__title">#RealHairStories</h5>
+              
+              
+                <p class="image-area__subtitle">Transformation stories from our customers</p>
+              
+            </div>
+          </a><a href="/blogs/curl-blog" class="image-area">
+            <img src="//floracurl.co.uk/cdn/shop/files/ic-image_3x_f1795ba3-3de1-4896-9a39-2a1b161d40ef.jpg?v=1694435293&amp;width=160" alt="" srcset="//floracurl.co.uk/cdn/shop/files/ic-image_3x_f1795ba3-3de1-4896-9a39-2a1b161d40ef.jpg?v=1694435293&amp;width=160 160w" width="160" height="160">
+            <div>
+              
+                <h5 class="image-area__title">The Curl Blog</h5>
+              
+              
+                <p class="image-area__subtitle">Read the latest on the blog</p>
+              
+            </div>
+          </a>
+          
+        </ul>
+      
+    </li>
+  
+
+</ul>
+
+
+      <ul>
+
+  
+
+    
+
+    <li class="mobile-menu-link-customer-reviews">
+      <a href="/pages/reviews" class=""
+      >
+        <span>Customer Reviews</span>
+        
+      </a>
+
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-sustainability">
+      <a href="/pages/sustainability" class=""
+      >
+        <span>Sustainability</span>
+        
+      </a>
+
+      
+    </li>
+  
+
+    
+
+    <li class="mobile-menu-link-about-us">
+      <a href="/pages/about-us" class=""
+      >
+        <span>About Us</span>
+        
+      </a>
+
+      
+    </li>
+  
+
+</ul>
+
+    </div>
+
+
+
+    
+      
+        
+          
+        
+          
+        
+        <a href="/pages/curl-quiz" class="cta-area  cta-area--button" style="
+          --color: #2a7050;
+          
+          --border-gradient: linear-gradient(90deg, rgba(213, 230, 219, 1) 3%, rgba(193, 224, 229, 1) 19%, rgba(216, 198, 228, 1) 35%, rgba(236, 200, 208, 1) 57%, rgba(234, 202, 166, 1) 75%, rgba(213, 230, 219, 1) 100%);
+          ">
+            <h5><strong>Take the curl</strong> <em>quiz</em></h5>
+          </a>
+      
+    
+
+  </div>
+
+  
+
+  
+    <div class="mobile-nav__actions">
+      
+        <a href="/account">My Account</a>
+      
+        <a href="/pages/contact-us">Contact Us</a>
+      
+    </div>  
+  
+</div>
+
+</header>
+
+    <main class="main-content" role='main'>
+      <div id="shopify-section-template--15089975918666__main" class="shopify-section blog-page">
+
+
+
+  <header class="blog-page--header wrapper">
+
+
+  <h1><span style="color:#2a7050">The Curl Blog</span></h1>
+
+
+    
+
+    
+      <div class="blog-page--filter-scroll">
+        <ul class="blog-page--filter flex f-grid f-grid--xs f-j-center--desktop">
+          
+            
+            
+            <li>
+              <a href="/blogs/curl-blog/tagged/curl-tips" class="">Curl Tips 🌀</a>
+            </li>
+          
+            
+            
+            <li>
+              <a href="/blogs/curl-blog/tagged/ingredients" class="">Ingredients 🌿</a>
+            </li>
+          
+            
+            
+            <li>
+              <a href="/blogs/curl-blog/tagged/lifestyle-health-wellness" class="">Lifestyle Health & Wellness 🧖🏾‍♀️</a>
+            </li>
+          
+            
+            
+            <li>
+              <a href="/blogs/curl-blog/tagged/pop-culture" class="">Pop Culture 🤩</a>
+            </li>
+          
+            
+            
+            <li>
+              <a href="/blogs/curl-blog/tagged/product-tips" class="">Product Tips 🧴</a>
+            </li>
+          
+            
+            
+            <li>
+              <a href="/blogs/curl-blog/tagged/scalp-care" class="">Scalp Care 🌱</a>
+            </li>
+          
+            
+            
+            <li>
+              <a href="/blogs/curl-blog/tagged/seasonal" class="">Seasonal ☀️</a>
+            </li>
+          
+        </ul>
+      </div>
+    
+
+  </header>
+
+  <div class="wrapper">
+    
+
+    
+
+    <ul class="blog-page--articles flex f-grid">
+      
+        <li class="flex">
+          
+
+
+
+<article class="article-grid-item flex f-d-column">
+
+  <div class="image-area">
+    <a href="/blogs/curl-blog/top-5-tips-for-a-successful-transitioning-hair-journey">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="picture-element-wrapper wrapper--32424034378 object-fit--cover" style="
+--aspect-desktop: 100.0%; --aspect-tablet: 100.0%;"  >
+    
+  <picture >
+    
+      <source media="(max-width: 480px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/13_480x.png?v=1592488699 1x, //floracurl.co.uk/cdn/shop/articles/13_480x@2x.png?v=1592488699 2x">
+      
+        <source media="(max-width: 834px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/13_834x.png?v=1592488699 1x, //floracurl.co.uk/cdn/shop/articles/13_834x@2x.png?v=1592488699 2x">
+      
+    
+    <img draggable="false" 
+         data-srcset="//floracurl.co.uk/cdn/shop/articles/13_400x.png?v=1592488699 1x, //floracurl.co.uk/cdn/shop/articles/13_400x@2x.png?v=1592488699 2x"  
+         alt="Top 5 Tips For a Successful Transitioning Hair Journey" 
+         data-lazy  
+        class="picture-element-image" 
+        style="
+         
+        
+    ">
+  </picture>
+
+  <img src="//floracurl.co.uk/cdn/shop/articles/13_1x1.png?v=1592488699" alt="Top 5 Tips For a Successful Transitioning Hair Journey" class="placeholder">
+
+</div>
+
+
+    </a>
+  </div>
+
+  <div class="content-area flex f-d-column">
+
+    <header class="article-header flex">
+      
+      
+
+      
+        <div class="category-area flex f-a-center">
+          <a href="/blogs/curl-blog/tagged/curl-tips">Curl Tips 🌀</a>
+        </div>
+      
+
+    </header>
+
+    <h3 class="article-title">
+      <a href="/blogs/curl-blog/top-5-tips-for-a-successful-transitioning-hair-journey">Top 5 Tips For a Successful Transitioning Hair Journey</a>
+    </h3>
+ 
+    
+      <div class="article-excerpt rte">
+        Are you transitioning from a relaxer, heat or colour damage? Well if you are, then we know the struggle can be real!Check out our top 5 tips for a ...
+      </div>
+    
+
+    <ul class="article-info flex f-grid f-a-center">
+      <li>
+        3 min read
+      </li>
+      
+        <li class="sep"></li>
+        <li>
+          <time datetime="2023-10-31T07:40:58Z">October 31, 2023</time>
+        </li>
+      
+    </ul>
+
+  </div>
+
+  
+</article>
+
+        </li>
+      
+        <li class="flex">
+          
+
+
+
+<article class="article-grid-item flex f-d-column">
+
+  <div class="image-area">
+    <a href="/blogs/curl-blog/loc-method-vs-lco-method">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="picture-element-wrapper wrapper--20129167 object-fit--cover" style="
+--aspect-desktop: 100.0%; --aspect-tablet: 100.0%;"  >
+    
+  <picture >
+    
+      <source media="(max-width: 480px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Depositphotos_86040662_original_480x.jpg?v=1580813055 1x, //floracurl.co.uk/cdn/shop/articles/Depositphotos_86040662_original_480x@2x.jpg?v=1580813055 2x">
+      
+        <source media="(max-width: 834px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Depositphotos_86040662_original_834x.jpg?v=1580813055 1x, //floracurl.co.uk/cdn/shop/articles/Depositphotos_86040662_original_834x@2x.jpg?v=1580813055 2x">
+      
+    
+    <img draggable="false" 
+         data-srcset="//floracurl.co.uk/cdn/shop/articles/Depositphotos_86040662_original_400x.jpg?v=1580813055 1x, //floracurl.co.uk/cdn/shop/articles/Depositphotos_86040662_original_400x@2x.jpg?v=1580813055 2x"  
+         alt="The Difference: LOC vs. LCO Method for Moisturised Curls" 
+         data-lazy  
+        class="picture-element-image" 
+        style="
+         
+        
+    ">
+  </picture>
+
+  <img src="//floracurl.co.uk/cdn/shop/articles/Depositphotos_86040662_original_1x1.jpg?v=1580813055" alt="The Difference: LOC vs. LCO Method for Moisturised Curls" class="placeholder">
+
+</div>
+
+
+    </a>
+  </div>
+
+  <div class="content-area flex f-d-column">
+
+    <header class="article-header flex">
+      
+      
+
+      
+        <div class="category-area flex f-a-center">
+          <a href="/blogs/curl-blog/tagged/curl-tips">Curl Tips 🌀</a>
+        </div>
+      
+
+    </header>
+
+    <h3 class="article-title">
+      <a href="/blogs/curl-blog/loc-method-vs-lco-method">The Difference: LOC vs. LCO Method for Moisturised Curls</a>
+    </h3>
+ 
+    
+      <div class="article-excerpt rte">
+        So what is this routine Flora &amp; Curl loves? We stand by the L.O.C/L.C.O Method! The routine every curly girl struggling with dry, brittle, dehy...
+      </div>
+    
+
+    <ul class="article-info flex f-grid f-a-center">
+      <li>
+        2 min read
+      </li>
+      
+        <li class="sep"></li>
+        <li>
+          <time datetime="2023-10-31T07:40:58Z">October 31, 2023</time>
+        </li>
+      
+    </ul>
+
+  </div>
+
+  
+</article>
+
+        </li>
+      
+        <li class="flex">
+          
+
+
+
+<article class="article-grid-item flex f-d-column">
+
+  <div class="image-area">
+    <a href="/blogs/curl-blog/curl-confidence-embracing-your-natural-beauty">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="picture-element-wrapper wrapper--104105836618 object-fit--cover" style="
+--aspect-desktop: 100.0%; --aspect-tablet: 100.0%;"  >
+    
+  <picture >
+    
+      <source media="(max-width: 480px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_7fc982e9-8ffd-4532-9b55-f01fd2f05af9_480x.jpg?v=1696585682 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_7fc982e9-8ffd-4532-9b55-f01fd2f05af9_480x@2x.jpg?v=1696585682 2x">
+      
+        <source media="(max-width: 834px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_7fc982e9-8ffd-4532-9b55-f01fd2f05af9_834x.jpg?v=1696585682 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_7fc982e9-8ffd-4532-9b55-f01fd2f05af9_834x@2x.jpg?v=1696585682 2x">
+      
+    
+    <img draggable="false" 
+         data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_7fc982e9-8ffd-4532-9b55-f01fd2f05af9_400x.jpg?v=1696585682 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_7fc982e9-8ffd-4532-9b55-f01fd2f05af9_400x@2x.jpg?v=1696585682 2x"  
+         alt="Curl Confidence: Embracing Your Natural Beauty" 
+         data-lazy  
+        class="picture-element-image" 
+        style="
+         
+        
+    ">
+  </picture>
+
+  <img src="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_7fc982e9-8ffd-4532-9b55-f01fd2f05af9_1x1.jpg?v=1696585682" alt="Curl Confidence: Embracing Your Natural Beauty" class="placeholder">
+
+</div>
+
+
+    </a>
+  </div>
+
+  <div class="content-area flex f-d-column">
+
+    <header class="article-header flex">
+      
+      
+
+      
+        <div class="category-area flex f-a-center">
+          <a href="/blogs/curl-blog/tagged/curl-tips">Curl Tips 🌀</a>
+        </div>
+      
+
+    </header>
+
+    <h3 class="article-title">
+      <a href="/blogs/curl-blog/curl-confidence-embracing-your-natural-beauty">Curl Confidence: Embracing Your Natural Beauty</a>
+    </h3>
+ 
+    
+      <div class="article-excerpt rte">
+        Embracing your natural curls can be a struggle, especially when you have no idea on where to start. But allowing your curls to flourish naturally w...
+      </div>
+    
+
+    <ul class="article-info flex f-grid f-a-center">
+      <li>
+        3 min read
+      </li>
+      
+        <li class="sep"></li>
+        <li>
+          <time datetime="2023-10-31T07:40:41Z">October 31, 2023</time>
+        </li>
+      
+    </ul>
+
+  </div>
+
+  
+</article>
+
+        </li>
+      
+        <li class="flex">
+          
+
+
+
+<article class="article-grid-item flex f-d-column">
+
+  <div class="image-area">
+    <a href="/blogs/curl-blog/the-ultimate-guide-to-caring-for-your-afro">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="picture-element-wrapper wrapper--103651999818 object-fit--cover" style="
+--aspect-desktop: 100.0%; --aspect-tablet: 100.0%;"  >
+    
+  <picture >
+    
+      <source media="(max-width: 480px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_d8257978-5cb0-40ec-9600-c10d05f8229e_480x.jpg?v=1694780586 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_d8257978-5cb0-40ec-9600-c10d05f8229e_480x@2x.jpg?v=1694780586 2x">
+      
+        <source media="(max-width: 834px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_d8257978-5cb0-40ec-9600-c10d05f8229e_834x.jpg?v=1694780586 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_d8257978-5cb0-40ec-9600-c10d05f8229e_834x@2x.jpg?v=1694780586 2x">
+      
+    
+    <img draggable="false" 
+         data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_d8257978-5cb0-40ec-9600-c10d05f8229e_400x.jpg?v=1694780586 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_d8257978-5cb0-40ec-9600-c10d05f8229e_400x@2x.jpg?v=1694780586 2x"  
+         alt="The Ultimate Guide to Caring for Your Afro" 
+         data-lazy  
+        class="picture-element-image" 
+        style="
+         
+        
+    ">
+  </picture>
+
+  <img src="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_d8257978-5cb0-40ec-9600-c10d05f8229e_1x1.jpg?v=1694780586" alt="The Ultimate Guide to Caring for Your Afro" class="placeholder">
+
+</div>
+
+
+    </a>
+  </div>
+
+  <div class="content-area flex f-d-column">
+
+    <header class="article-header flex">
+      
+      
+
+      
+        <div class="category-area flex f-a-center">
+          <a href="/blogs/curl-blog/tagged/curl-tips">Curl Tips 🌀</a>
+        </div>
+      
+
+    </header>
+
+    <h3 class="article-title">
+      <a href="/blogs/curl-blog/the-ultimate-guide-to-caring-for-your-afro">The Ultimate Guide to Caring for Your Afro</a>
+    </h3>
+ 
+    
+      <div class="article-excerpt rte">
+        Our fro’s are the crowns that we never take off. We share with you the ultimate guide on how to help keep your afro healthy and moisturised in all ...
+      </div>
+    
+
+    <ul class="article-info flex f-grid f-a-center">
+      <li>
+        5 min read
+      </li>
+      
+        <li class="sep"></li>
+        <li>
+          <time datetime="2023-10-31T07:40:41Z">October 31, 2023</time>
+        </li>
+      
+    </ul>
+
+  </div>
+
+  
+</article>
+
+        </li>
+      
+        <li class="flex">
+          
+
+
+
+<article class="article-grid-item flex f-d-column">
+
+  <div class="image-area">
+    <a href="/blogs/curl-blog/celebrating-textured-curls-this-month-and-all-year-round">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="picture-element-wrapper wrapper--103026458698 object-fit--cover" style="
+--aspect-desktop: 100.0%; --aspect-tablet: 100.0%;"  >
+    
+  <picture >
+    
+      <source media="(max-width: 480px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_1_480x.png?v=1676275142 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_1_480x@2x.png?v=1676275142 2x">
+      
+        <source media="(max-width: 834px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_1_834x.png?v=1676275142 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_1_834x@2x.png?v=1676275142 2x">
+      
+    
+    <img draggable="false" 
+         data-srcset="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_1_400x.png?v=1676275142 1x, //floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_1_400x@2x.png?v=1676275142 2x"  
+         alt="Celebrating Textured Curls This Month and All Year Round" 
+         data-lazy  
+        class="picture-element-image" 
+        style="
+         
+        
+    ">
+  </picture>
+
+  <img src="//floracurl.co.uk/cdn/shop/articles/Blog_Post_Covers_2023_1_1x1.png?v=1676275142" alt="Celebrating Textured Curls This Month and All Year Round" class="placeholder">
+
+</div>
+
+
+    </a>
+  </div>
+
+  <div class="content-area flex f-d-column">
+
+    <header class="article-header flex">
+      
+      
+
+      
+        <div class="category-area flex f-a-center">
+          <a href="/blogs/curl-blog/tagged/curl-tips">Curl Tips 🌀</a>
+        </div>
+      
+
+    </header>
+
+    <h3 class="article-title">
+      <a href="/blogs/curl-blog/celebrating-textured-curls-this-month-and-all-year-round">Celebrating Textured Curls This Month and All Year Round</a>
+    </h3>
+ 
+    
+      <div class="article-excerpt rte">
+        
+Our hair is the crown we never take off, and celebrating the true beauty in our textured curls is truly amazing. Black hair and the natural hair m...
+      </div>
+    
+
+    <ul class="article-info flex f-grid f-a-center">
+      <li>
+        5 min read
+      </li>
+      
+        <li class="sep"></li>
+        <li>
+          <time datetime="2023-10-31T07:40:41Z">October 31, 2023</time>
+        </li>
+      
+    </ul>
+
+  </div>
+
+  
+</article>
+
+        </li>
+      
+        <li class="flex">
+          
+
+
+
+<article class="article-grid-item flex f-d-column">
+
+  <div class="image-area">
+    <a href="/blogs/curl-blog/6-hair-trends-you-may-have-heard-of-but-have-not-tried">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="picture-element-wrapper wrapper--102256410698 object-fit--cover" style="
+--aspect-desktop: 100.0%; --aspect-tablet: 100.0%;"  >
+    
+  <picture >
+    
+      <source media="(max-width: 480px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Untitled_design_e8a4891e-5ec1-43a9-807e-23635d0d02b2_480x.png?v=1643897530 1x, //floracurl.co.uk/cdn/shop/articles/Untitled_design_e8a4891e-5ec1-43a9-807e-23635d0d02b2_480x@2x.png?v=1643897530 2x">
+      
+        <source media="(max-width: 834px)" data-srcset="//floracurl.co.uk/cdn/shop/articles/Untitled_design_e8a4891e-5ec1-43a9-807e-23635d0d02b2_834x.png?v=1643897530 1x, //floracurl.co.uk/cdn/shop/articles/Untitled_design_e8a4891e-5ec1-43a9-807e-23635d0d02b2_834x@2x.png?v=1643897530 2x">
+      
+    
+    <img draggable="false" 
+         data-srcset="//floracurl.co.uk/cdn/shop/articles/Untitled_design_e8a4891e-5ec1-43a9-807e-23635d0d02b2_400x.png?v=1643897530 1x, //floracurl.co.uk/cdn/shop/articles/Untitled_design_e8a4891e-5ec1-43a9-807e-23635d0d02b2_400x@2x.png?v=1643897530 2x"  
+         alt="6 Hair Trends You May Have Heard Of, But Have Not Tried" 
+         data-lazy  
+        class="picture-element-image" 
+        style="
+         
+        
+    ">
+  </picture>
+
+  <img src="//floracurl.co.uk/cdn/shop/articles/Untitled_design_e8a4891e-5ec1-43a9-807e-23635d0d02b2_1x1.png?v=1643897530" alt="6 Hair Trends You May Have Heard Of, But Have Not Tried" class="placeholder">
+
+</div>
+
+
+    </a>
+  </div>
+
+  <div class="content-area flex f-d-column">
+
+    <header class="article-header flex">
+      
+      
+
+      
+        <div class="category-area flex f-a-center">
+          <a href="/blogs/curl-blog/tagged/lifestyle-health-wellness">Lifestyle Health & Wellness 🧖🏾‍♀️</a>
+        </div>
+      
+
+    </header>
+
+    <h3 class="article-title">
+      <a href="/blogs/curl-blog/6-hair-trends-you-may-have-heard-of-but-have-not-tried">6 Hair Trends You May Have Heard Of, But Have Not Tried</a>
+    </h3>
+ 
+    
+      <div class="article-excerpt rte">
+        A wave of beauty trends are sweeping across social media and we're here for it. With many of the ingredients that can be found in our kitchens, it'...
+      </div>
+    
+
+    <ul class="article-info flex f-grid f-a-center">
+      <li>
+        7 min read
+      </li>
+      
+        <li class="sep"></li>
+        <li>
+          <time datetime="2023-10-31T07:40:41Z">October 31, 2023</time>
+        </li>
+      
+    </ul>
+
+  </div>
+
+  
+</article>
+
+        </li>
+      
+    </ul>
+
+    
+
+    
+    <div class="blog-page--pagination">
+
+      <ul class="flex f-grid--s f-a-center f-j-center">
+
+        <li class="prev-area flex f-a-center">
+          <a href="" class="prev disabled">
+            Previous
+          </a> 
+        </li>
+        
+        
+          
+          
+          
+
+          
+          
+         
+          
+          
+            
+            <li class="inner-link is-active index-0"><span>1</span></li>
+            
+          
+        
+          
+          
+          
+
+          
+          
+         
+          
+          
+            <li class="inner-link  ">
+              <a href="/blogs/curl-blog?page=2" title="">2</a>
+            </li>
+          
+        
+          
+          
+          
+
+          
+          
+         
+          
+          
+            <li class="inner-link  ">
+              <a href="/blogs/curl-blog?page=3" title="">3</a>
+            </li>
+          
+        
+          
+          
+          
+
+          
+          
+         
+          
+          
+            
+              
+              
+            
+          
+        
+          
+          
+          
+
+          
+          
+         
+          
+          
+            <li class="inner-link  ">
+              <a href="/blogs/curl-blog?page=15" title="">15</a>
+            </li>
+          
+             
+
+        <li class="next-area flex f-a-center">
+          <a href="/blogs/curl-blog?page=2" class="next ">
+            Next
+          </a>
+        </li>
+      </ul>
+
+    </div>
+    
+  </div>
+ 
+
+
+
+</div> 
+    </main>
+
+    <footer id="shopify-section-footer" class="shopify-section site-footer">
+
+<div class="main-footer">
+  
+  <div class="wrapper">
+    
+    <ul class="footer-grid flex--desktop f-j-between">
+
+      <li class="left-footer-area">
+        
+
+        <div class="tablet-only">
+          <div class="form-area">
+              
+  
+    <h3 class="form-area__title">Join our curl community!</h3>
+  
+
+  
+  
+  <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form" data-newsletter-form="true"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+
+      
+      
+        <div class="rte">Get 10% off your first order, plus healthy curl tips and exclusive offers!</div>
+      
+
+      
+        <h3 class="radio-title font-third">What is your curl type?</h3>
+      
+
+      
+        <div class="radio-wrap">
+          
+          
+            
+            <label>
+              <input type="radio" value="Coily" name="contact[tags]">
+              Coily
+            </label>
+          
+            
+            <label>
+              <input type="radio" value="Curly" name="contact[tags]">
+              Curly
+            </label>
+          
+            
+            <label>
+              <input type="radio" value="Wavy" name="contact[tags]">
+              Wavy
+            </label>
+          
+        </div>
+      
+
+      <div class="input-wrap">
+          <input required placeholder="Email Address" type="email" data-email name="contact[email]" autocomplete="email" value="">
+          <button type="submit" aria-label="Submit">
+            <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3.598 8.06c0 .588.478 1.066 1.067 1.066h6.552l-1.982 1.921a1.035 1.035 0 1 0 1.488 1.437l3.245-3.591c.19-.211.297-.498.297-.796v-.194a1.19 1.19 0 0 0-.297-.795l-3.245-3.591a1.035 1.035 0 1 0-1.489 1.436l1.983 1.924H4.665c-.59 0-1.067.478-1.067 1.067v.115z" fill="#FCFCFC"/>
+</svg>
+
+          </button>
+      </div>
+    
+
+  </form>
+  
+</div>
+        </div>
+
+        
+          <h3 class="social-icons__title desktop-only">Follow us!</h3>
+        
+
+        <ul class="social-icons flex f-grid f-a-center f-j-center" role="list"><li class="list-social__item">
+    <a href="https://www.instagram.com/floracurl/" class="link list-social__link" target="_blank"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#ymcbkp7bea)">
+        <path d="M32 16.01c0 8.833-7.157 16.009-16.01 16.009C7.139 32.019 0 24.843 0 16.009 0 7.175 7.157 0 16.01 0c8.852 0 16.009 7.157 16.009 16.01H32z" fill="#2A7050"/>
+        <path d="M24.042 22.085c0 1.305-1.006 2.348-2.236 2.348H10.232c-1.23 0-2.237-1.062-2.237-2.348V10.251c0-1.305 1.007-2.349 2.237-2.349h11.574c1.23 0 2.236 1.063 2.236 2.349v11.834z" fill="#FCFCFC"/>
+        <path d="M19.234 12.487v-2.18s.037-.448.447-.448h2.236s.41.037.41.41v2.31s-.074.355-.354.355h-2.33s-.41-.019-.41-.429v-.018zM9.673 14.872h1.565s-.894 3.057 1.603 5.107c0 0 1.323 1.211 3.299 1.174 0 0 2.385-.093 3.69-1.752 0 0 1.659-1.957 1.044-4.585h1.51v7.176s-.038.484-.485.484H10.12s-.466-.093-.466-.466v-7.156l.019.018z" fill="#2A7050"/>
+        <path d="M19.122 16.917a3.168 3.168 0 1 0-6.167-1.456 3.168 3.168 0 0 0 6.167 1.456z" fill="#2A7050"/>
+    </g>
+    <defs>
+        <clipPath id="ymcbkp7bea">
+            <path fill="#fff" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+</svg>
+<span class="visually-hidden">Instagram</span>
+    </a>
+  </li><li class="list-social__item">
+    <a href="https://www.facebook.com/floracurl" class="link list-social__link" target="_blank"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#dwem9zolwa)">
+        <path d="M32 15.99C32 7.158 24.844 0 15.99 0 7.139 0 0 7.157 0 15.99 0 24.826 7.157 32 15.99 32c8.835 0 15.992-7.157 15.992-16.01" fill="#2A7050"/>
+        <path d="M17.407 12.207v-1.51c0-.745.485-.913.84-.913h2.124V6.541h-2.926c-3.243 0-3.989 2.405-3.989 3.952v1.714h-1.882v3.784h1.901v9.467h3.783v-9.467h2.815l.354-3.784h-3.02z" fill="#FCFCFC"/>
+    </g>
+    <defs>
+        <clipPath id="dwem9zolwa">
+            <path fill="#fff" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+</svg>
+<span class="visually-hidden">Facebook</span>
+    </a>
+  </li><li class="list-social__item">
+    <a href="https://www.tiktok.com/@floracurl" class="link list-social__link" target="_blank"><svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#mlw5g9zjoa)">
+        <path d="M32 16.01c0 8.833-7.157 16.009-16.01 16.009C7.139 32.019 0 24.843 0 16.009 0 7.175 7.157 0 16.01 0c8.852 0 16.009 7.157 16.009 16.01H32z" fill="#2A7050"/>
+        <path d="M13.773 24.452c-.373-.056-.745-.075-1.1-.168-2.031-.466-3.634-2.236-3.895-4.305a5.118 5.118 0 0 1 4.287-5.703 4.736 4.736 0 0 1 1.621 0v2.721c-.149-.018-.28-.056-.41-.074-1.323-.187-2.59.745-2.777 2.031-.186 1.398.746 2.61 2.106 2.796a2.451 2.451 0 0 0 2.759-2.498V7.921h2.683c.038.28.056.559.112.82.373 1.845 2.013 3.224 3.895 3.299.168 0 .205.056.205.205V14.723a6.907 6.907 0 0 1-2.218-.354 7.001 7.001 0 0 1-1.975-1.062V19.234c0 1.043-.261 2.012-.839 2.87-.95 1.398-2.292 2.18-3.988 2.31-.056 0-.112 0-.168.02h-.317l.019.018z" fill="#FCFCFC"/>
+    </g>
+    <defs>
+        <clipPath id="mlw5g9zjoa">
+            <path fill="#fff" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+</svg>
+<span class="visually-hidden">TikTok</span>
+    </a>
+  </li></ul>
+
+        <div class="desktop-only">
+          <div class="country-selector text-align-left" data-localization>
+  <label for="country_code" class="country-selector__title">You're based in:</label><form method="post" action="/localization" id="localization_form" accept-charset="UTF-8" class="localization-form country-selector__form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="localization" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="return_to" value="/blogs/curl-blog" /><img src="//cdn.shopify.com/static/images/flags/gg.svg?width=14" alt="Guernsey" srcset="//cdn.shopify.com/static/images/flags/gg.svg?width=14 14w" width="14" height="11" class="country-selector__flag">
+
+    <select
+    class="country-selector__select"
+    name="country_code"
+    data-localization-select
+  ><option
+        value="AU"
+      >
+        Australia
+      </option><option
+        value="AT"
+      >
+        Austria
+      </option><option
+        value="BE"
+      >
+        Belgium
+      </option><option
+        value="BG"
+      >
+        Bulgaria
+      </option><option
+        value="HR"
+      >
+        Croatia
+      </option><option
+        value="CY"
+      >
+        Cyprus
+      </option><option
+        value="CZ"
+      >
+        Czechia
+      </option><option
+        value="DK"
+      >
+        Denmark
+      </option><option
+        value="EE"
+      >
+        Estonia
+      </option><option
+        value="FI"
+      >
+        Finland
+      </option><option
+        value="FR"
+      >
+        France
+      </option><option
+        value="DE"
+      >
+        Germany
+      </option><option
+        value="GR"
+      >
+        Greece
+      </option><option
+        value="GG"
+          selected
+        
+      >
+        Guernsey
+      </option><option
+        value="HU"
+      >
+        Hungary
+      </option><option
+        value="IE"
+      >
+        Ireland
+      </option><option
+        value="IM"
+      >
+        Isle of Man
+      </option><option
+        value="IT"
+      >
+        Italy
+      </option><option
+        value="KW"
+      >
+        Kuwait
+      </option><option
+        value="LV"
+      >
+        Latvia
+      </option><option
+        value="LT"
+      >
+        Lithuania
+      </option><option
+        value="LU"
+      >
+        Luxembourg
+      </option><option
+        value="MT"
+      >
+        Malta
+      </option><option
+        value="NL"
+      >
+        Netherlands
+      </option><option
+        value="PL"
+      >
+        Poland
+      </option><option
+        value="PT"
+      >
+        Portugal
+      </option><option
+        value="RO"
+      >
+        Romania
+      </option><option
+        value="SA"
+      >
+        Saudi Arabia
+      </option><option
+        value="SK"
+      >
+        Slovakia
+      </option><option
+        value="SI"
+      >
+        Slovenia
+      </option><option
+        value="ES"
+      >
+        Spain
+      </option><option
+        value="SE"
+      >
+        Sweden
+      </option><option
+        value="CH"
+      >
+        Switzerland
+      </option><option
+        value="AE"
+      >
+        United Arab Emirates
+      </option><option
+        value="GB"
+      >
+        United Kingdom
+      </option></select>
+  </form>
+</div>
+        </div>
+      </li>
+
+      <li class="right-footer-area">
+
+        <ul class="accordion flex f-j-between" data-toggle-group>
+          
+            
+            
+            
+              <li class="footer-menu link-menu desktop-only">
+                
+                <h3 class="footer-menu__heading">
+                  
+                    Customer Service
+                  
+                </h3>
+
+                <ul class="right-footer-area__nav">
+                  
+                    <li>
+                      <a href="http://floracurl.co.uk/account" class="underline__hover" target="_blank" rel="noopener" 
+                      >
+                        My Account
+                      </a>
+                    </li>
+                  
+                    <li>
+                      <a href="http://floracurl.co.uk/account" class="underline__hover" target="_blank" rel="noopener" 
+                      >
+                        My Subscriptions
+                      </a>
+                    </li>
+                  
+                    <li>
+                      <a href="/pages/contact-us" class="underline__hover"  
+                      >
+                        Contact Us
+                      </a>
+                    </li>
+                  
+                    <li>
+                      <a href="/pages/faq" class="underline__hover"  
+                      >
+                        FAQs
+                      </a>
+                    </li>
+                  
+                    <li>
+                      <a href="/pages/shipping" class="underline__hover"  
+                      >
+                        Shipping and Returns
+                      </a>
+                    </li>
+                  
+                    <li>
+                      <a href="/pages/share-your-hair-story" class="underline__hover"  
+                      >
+                        Share Your Hair Story
+                      </a>
+                    </li>
+                  
+                </ul>
+
+              </li>
+              
+                <li class="accordion-item footer-menu tablet-only" data-toggle-item>
+                    
+                <h4 class="accordion-heading footer-menu__heading flex f-j-between f-a-center" data-toggle-trigger>
+                    <span>
+                      
+                        Customer Service
+                      
+                    </span>
+                    <svg class="icon-plus" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M4.055 12V7.765H0V4.262h4.055V0h3.89v4.262H12v3.503H7.945V12h-3.89z" fill="#2A7050"/>
+                    </svg>
+                    <svg class="icon-minus" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M4.055 8H0V4h12v4H4.055z" fill="#2A7050"/>
+                    </svg>
+                  </h4>
+
+                  <ul class="accordion-content right-footer-area__nav" data-toggle-elem>
+                    
+                      <li>
+                        <a href="http://floracurl.co.uk/account" class="underline__hover" target="_blank" rel="noopener" 
+                        >
+                          My Account
+                        </a>
+                      </li>
+                    
+                      <li>
+                        <a href="http://floracurl.co.uk/account" class="underline__hover" target="_blank" rel="noopener" 
+                        >
+                          My Subscriptions
+                        </a>
+                      </li>
+                    
+                      <li>
+                        <a href="/pages/contact-us" class="underline__hover"  
+                        >
+                          Contact Us
+                        </a>
+                      </li>
+                    
+                      <li>
+                        <a href="/pages/faq" class="underline__hover"  
+                        >
+                          FAQs
+                        </a>
+                      </li>
+                    
+                      <li>
+                        <a href="/pages/shipping" class="underline__hover"  
+                        >
+                          Shipping and Returns
+                        </a>
+                      </li>
+                    
+                      <li>
+                        <a href="/pages/share-your-hair-story" class="underline__hover"  
+                        >
+                          Share Your Hair Story
+                        </a>
+                      </li>
+                    
+                  </ul>
+
+                </li>
+              
+            
+          
+            
+            
+            
+              <li class="footer-menu link-menu desktop-only">
+                
+                <h3 class="footer-menu__heading">
+                  
+                    Collections
+                  
+                </h3>
+
+                <ul class="right-footer-area__nav">
+                  
+                    <li>
+                      <a href="/collections/style-me" class="underline__hover"  
+                      >
+                        Style Me
+                      </a>
+                    </li>
+                  
+                    <li>
+                      <a href="/collections/hydrate-me" class="underline__hover"  
+                      >
+                        Hydrate Me
+                      </a>
+                    </li>
+                  
+                    <li>
+                      <a href="/collections/soothe-me" class="underline__hover"  
+                      >
+                        Soothe Me
+                      </a>
+                    </li>
+                  
+                    <li>
+                      <a href="/collections/protect-me" class="underline__hover"  
+                      >
+                        Protect Me
+                      </a>
+                    </li>
+                  
+                </ul>
+
+              </li>
+              
+                <li class="accordion-item footer-menu tablet-only" data-toggle-item>
+                    
+                <h4 class="accordion-heading footer-menu__heading flex f-j-between f-a-center" data-toggle-trigger>
+                    <span>
+                      
+                        Collections
+                      
+                    </span>
+                    <svg class="icon-plus" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M4.055 12V7.765H0V4.262h4.055V0h3.89v4.262H12v3.503H7.945V12h-3.89z" fill="#2A7050"/>
+                    </svg>
+                    <svg class="icon-minus" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M4.055 8H0V4h12v4H4.055z" fill="#2A7050"/>
+                    </svg>
+                  </h4>
+
+                  <ul class="accordion-content right-footer-area__nav" data-toggle-elem>
+                    
+                      <li>
+                        <a href="/collections/style-me" class="underline__hover"  
+                        >
+                          Style Me
+                        </a>
+                      </li>
+                    
+                      <li>
+                        <a href="/collections/hydrate-me" class="underline__hover"  
+                        >
+                          Hydrate Me
+                        </a>
+                      </li>
+                    
+                      <li>
+                        <a href="/collections/soothe-me" class="underline__hover"  
+                        >
+                          Soothe Me
+                        </a>
+                      </li>
+                    
+                      <li>
+                        <a href="/collections/protect-me" class="underline__hover"  
+                        >
+                          Protect Me
+                        </a>
+                      </li>
+                    
+                  </ul>
+
+                </li>
+              
+            
+          
+
+          <li class="desktop-only">
+            <div class="form-area">
+              
+  
+    <h3 class="form-area__title">Join our curl community!</h3>
+  
+
+  
+  
+  <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form" data-newsletter-form="true"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+
+      
+      
+        <div class="rte">Get 10% off your first order, plus healthy curl tips and exclusive offers!</div>
+      
+
+      
+        <h3 class="radio-title font-third">What is your curl type?</h3>
+      
+
+      
+        <div class="radio-wrap">
+          
+          
+            
+            <label>
+              <input type="radio" value="Coily" name="contact[tags]">
+              Coily
+            </label>
+          
+            
+            <label>
+              <input type="radio" value="Curly" name="contact[tags]">
+              Curly
+            </label>
+          
+            
+            <label>
+              <input type="radio" value="Wavy" name="contact[tags]">
+              Wavy
+            </label>
+          
+        </div>
+      
+
+      <div class="input-wrap">
+          <input required placeholder="Email Address" type="email" data-email name="contact[email]" autocomplete="email" value="">
+          <button type="submit" aria-label="Submit">
+            <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3.598 8.06c0 .588.478 1.066 1.067 1.066h6.552l-1.982 1.921a1.035 1.035 0 1 0 1.488 1.437l3.245-3.591c.19-.211.297-.498.297-.796v-.194a1.19 1.19 0 0 0-.297-.795l-3.245-3.591a1.035 1.035 0 1 0-1.489 1.436l1.983 1.924H4.665c-.59 0-1.067.478-1.067 1.067v.115z" fill="#FCFCFC"/>
+</svg>
+
+          </button>
+      </div>
+    
+
+  </form>
+  
+</div>
+          </li>
+
+          <li class="tablet-only">
+            <div class="country-selector text-align-left" data-localization>
+  <label for="country_code" class="country-selector__title">You're based in:</label><form method="post" action="/localization" id="localization_form" accept-charset="UTF-8" class="localization-form country-selector__form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="localization" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="return_to" value="/blogs/curl-blog" /><img src="//cdn.shopify.com/static/images/flags/gg.svg?width=14" alt="Guernsey" srcset="//cdn.shopify.com/static/images/flags/gg.svg?width=14 14w" width="14" height="11" class="country-selector__flag">
+
+    <select
+    class="country-selector__select"
+    name="country_code"
+    data-localization-select
+  ><option
+        value="AU"
+      >
+        Australia
+      </option><option
+        value="AT"
+      >
+        Austria
+      </option><option
+        value="BE"
+      >
+        Belgium
+      </option><option
+        value="BG"
+      >
+        Bulgaria
+      </option><option
+        value="HR"
+      >
+        Croatia
+      </option><option
+        value="CY"
+      >
+        Cyprus
+      </option><option
+        value="CZ"
+      >
+        Czechia
+      </option><option
+        value="DK"
+      >
+        Denmark
+      </option><option
+        value="EE"
+      >
+        Estonia
+      </option><option
+        value="FI"
+      >
+        Finland
+      </option><option
+        value="FR"
+      >
+        France
+      </option><option
+        value="DE"
+      >
+        Germany
+      </option><option
+        value="GR"
+      >
+        Greece
+      </option><option
+        value="GG"
+          selected
+        
+      >
+        Guernsey
+      </option><option
+        value="HU"
+      >
+        Hungary
+      </option><option
+        value="IE"
+      >
+        Ireland
+      </option><option
+        value="IM"
+      >
+        Isle of Man
+      </option><option
+        value="IT"
+      >
+        Italy
+      </option><option
+        value="KW"
+      >
+        Kuwait
+      </option><option
+        value="LV"
+      >
+        Latvia
+      </option><option
+        value="LT"
+      >
+        Lithuania
+      </option><option
+        value="LU"
+      >
+        Luxembourg
+      </option><option
+        value="MT"
+      >
+        Malta
+      </option><option
+        value="NL"
+      >
+        Netherlands
+      </option><option
+        value="PL"
+      >
+        Poland
+      </option><option
+        value="PT"
+      >
+        Portugal
+      </option><option
+        value="RO"
+      >
+        Romania
+      </option><option
+        value="SA"
+      >
+        Saudi Arabia
+      </option><option
+        value="SK"
+      >
+        Slovakia
+      </option><option
+        value="SI"
+      >
+        Slovenia
+      </option><option
+        value="ES"
+      >
+        Spain
+      </option><option
+        value="SE"
+      >
+        Sweden
+      </option><option
+        value="CH"
+      >
+        Switzerland
+      </option><option
+        value="AE"
+      >
+        United Arab Emirates
+      </option><option
+        value="GB"
+      >
+        United Kingdom
+      </option></select>
+  </form>
+</div>
+          </li>
+
+        </ul>
+
+      </li>
+
+    </ul>
+
+  </div>
+
+</div>
+
+                          
+<div class="sub-footer" style="
+
+--sub-footer-gradient: linear-gradient(90deg, rgba(213, 230, 219, 1) 3%, rgba(193, 224, 229, 1) 19%, rgba(216, 198, 228, 1) 35%, rgba(236, 200, 208, 1) 57%, rgba(234, 202, 166, 1) 75%, rgba(213, 230, 219, 1) 100%);
+">
+  <div class="wrapper sub-footer__wrapper">
+    <div class="copyright-area">
+      <p>&copy; 2023 Flora & Curl</p>
+    </div>
+    
+    
+    <nav class="sub-menu-area flex f-j-end--desktop">
+      <ul class="flex f-a-center f-grid--s">
+        
+          <li>
+            <a href="/pages/terms-conditions">Terms & Conditions</a>
+          </li>
+        
+          <li>
+            <a href="/policies/privacy-policy">Privacy Policy</a>
+          </li>
+        
+      </ul>
+    </nav>
+    
+
+  </div>
+</div>
+<div class="section-wave section-wave--bottom tablet-only">
+  <svg width="834" height="14" viewBox="0 0 834 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5132_2456)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 6.4776C0 6.4776 28.9511 9.52674 115.679 9.52674C202.407 9.52674 189.677 4.17914 320.279 1.67169C450.881 -0.835768 461.21 5.05348 555.228 9.52674C649.246 14 834 0 834 0V14H0V6.4776Z" fill="url(#paint0_linear_5132_2456)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5132_2456" x1="0" y1="7.00112" x2="834" y2="7.00112" gradientUnits="userSpaceOnUse">
+<stop offset="0.03" stop-color="#D5E6DB"/>
+<stop offset="0.19" stop-color="#C1E0E5"/>
+<stop offset="0.35" stop-color="#D8C6E4"/>
+<stop offset="0.57" stop-color="#ECC8D0"/>
+<stop offset="0.75" stop-color="#EACAA6"/>
+<stop offset="1" stop-color="#D5E6DB"/>
+</linearGradient>
+<clipPath id="clip0_5132_2456">
+<rect width="834" height="14" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!--spicegems added code start -->  
+     <script>
+       (function ()  {
+         let SG_CustomCode = {
+           init: () => {
+             let countrySelectors = document.querySelectorAll(".country-selector");
+             let switchHtml = `<div class="sg-selectCountry">
+                                <label for="selectCountry">Switch Sites:</label> 
+                                <select name="countries" id="countries">
+                                  <option value="https://floracurl.co.uk/?no_rule=true">Rest of the World</option>   
+                                  <option value="https://floracurl.com/?no_rule=true">Americas</option>
+                                </select>
+                                </div>`
+             
+             countrySelectors.forEach(elem => {
+                  elem.insertAdjacentHTML("afterend", switchHtml)
+             });
+             SG_CustomCode.BindEvent();
+           },
+           BindEvent: () => {
+             document.querySelectorAll('#countries').forEach(function(item) {
+                item.addEventListener('change', function () {
+                  let url = this.value;
+                  if (url) { 
+                    window.location = url; 
+                  }
+                  return false;
+                });
+             })
+           }
+         }
+
+          let counter = 0;
+          let wait = setInterval(() => {
+             counter += 1;
+              if(typeof SGRedirecto && window.spiceScriptLoaded){
+                  clearInterval(wait);
+                  SG_CustomCode.init();
+              }
+              if(counter >= 20){
+                  clearInterval(wait);
+              }
+          }, 200)
+        })()
+    </script>
+        
+<style>
+  li.left-footer-area .desktop-only {
+    display: inline-flex;
+    gap: 16px;
+     align-items: flex-start;
+}
+
+li.left-footer-area .desktop-only .sg-selectCountry select#countries {
+    max-width: 125px;
+    margin-top: 8px;
+}
+
+  .country-selector.text-align-left {
+    margin: 16px auto 0;
+}
+  
+   .sg-country-switcher {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 25px;
+    font-size: 13px;
+    color: #363537;
+    padding: 8px 8px 4px 8px;
+    border-radius: 8px;
+    width: fit-content;
+}
+
+.sg-selectCountry label, select#countries {
+    font-family: Euclid,Arial,sans-serif;
+    color: #363537;
+    font-size: 13px;
+}
+
+.sg-selectCountry {
+    font-size: 13px;
+    background-color: #2a705014;
+    color: #363537;
+    padding: 7px 14px;
+    border-radius: 8px;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    width: fit-content;
+  margin: 16px auto 0;
+}
+
+select#countries {
+    /* padding-top: 8px; */
+    color: inherit;
+    background-color: transparent;
+    border: 0;
+}
+
+select#countries > option {
+    background: #fff;
+}
+   @media(max-width: 768px){
+  .country-selector.text-align-left, .sg-selectCountry {
+    max-width: 280px;
+    width: 100%;
+  }
+
+  select#countries {
+      width: calc(100% - 86px);
+  }
+          .sg-selectCountry {
+       flex-direction: row;
+       font-size: 12px;
+     }
+
+     .sg-selectCountry label, select#countries {
+       font-family: Euclid, Arial, sans-serif;
+       color: #363537;
+       font-size: 12px;
+     }
+} 
+  </style>
+<!--spicegems added code end -->  
+
+</footer>
+    <div id="shopify-section-side-cart" class="shopify-section">
+
+<section class="side-cart flex f-j-end loading section-side-cart" data-cart-mount data-side-cart rv-class-loading="data.cart.loading" 
+data-class-change='
+    [
+        {
+            "target": ".side-cart",
+            "class": "shown",
+            "method": "remove",
+            "on": "click",
+            "onlyThisElem": true,
+            "preventDefault": true
+        }
+    ]
+' data-lock-scroll='
+  [
+      {
+          "target": "[data-side-cart-items]",
+          "method": "unlockScroll",
+          "on": "click",
+          "onlyThisElem": true,
+          "preventDefault": true
+      }
+  ] 
+'>
+
+  
+ 
+  <div rv-class-shown="data.errorMessage" class="error-popup">
+    
+    <div class="popup-inner">
+      
+      <p rv-html="data.errorMessage"></p>
+
+      <a href="#" rv-on-click="controller.clearError" class="btn btn--centered">Close</a>
+
+    </div>
+
+  </div>
+  
+  <div class="has-loader inner" data-loading-text="Updating...">
+    
+    <header class="flex f-a-center f-j-between">
+      
+    <h2><span style="color:#2a7050">My Bag</span></h2>
+
+
+      <a class="close" href="#"
+
+      data-class-change='
+          [
+              {
+                  "target": ".side-cart",
+                  "class": "shown",
+                  "method": "remove",
+                  "on": "click",
+                  "preventDefault": true
+              }
+          ]
+      '
+
+      data-lock-scroll='
+        [
+            {
+                "target": ".side-cart .main-items",
+                "method": "unlockScroll",
+                "on": "click",
+                "preventDefault": true
+            }
+        ]
+      '
+      >
+        <svg width="7" height="7" viewBox="0 0 7 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M6.649 1.611 5.389.351 3.5 2.242 1.611.35l-1.26 1.26 1.89 1.89L.35 5.388l1.26 1.26 1.89-1.89 1.888 1.89 1.26-1.26L4.759 3.5l1.89-1.889z" fill="#000"/>
+        </svg>
+      </a>
+    </header>
+
+    
+      <div class="free-shipping-notice" rv-if="data.cart.item_count | gt 0" rv-class-success="data.cart.total_price | hasFreeShipping">
+        <div class="free-shipping-notice-inner flex f-a-center">
+
+          <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M1 0C0.447715 0 0 0.447715 0 1V14C0 14.5523 0.447715 15 1 15H2.33682C2.12085 15.4546 2 15.9632 2 16.5C2 18.433 3.567 20 5.5 20C7.433 20 9 18.433 9 16.5C9 15.9632 8.87915 15.4546 8.66318 15H15.3368C15.1208 15.4546 15 15.9632 15 16.5C15 18.433 16.567 20 18.5 20C20.433 20 22 18.433 22 16.5C22 15.9632 21.8792 15.4546 21.6632 15H23C23.5523 15 24 14.5523 24 14V9C24 8.73478 23.8946 8.48043 23.7071 8.29289L20.7071 5.29289C20.5196 5.10536 20.2652 5 20 5H17V1C17 0.447715 16.5523 0 16 0H1ZM18.5 13H22V9.41421L19.5858 7H17V13H18.5ZM18.5 15C17.6716 15 17 15.6716 17 16.5C17 17.3284 17.6716 18 18.5 18C19.3284 18 20 17.3284 20 16.5C20 15.6716 19.3284 15 18.5 15ZM4 16.5C4 15.6716 4.67157 15 5.5 15C6.32843 15 7 15.6716 7 16.5C7 17.3284 6.32843 18 5.5 18C4.67157 18 4 17.3284 4 16.5ZM15 13H5.5H2V2H15V6V13Z" fill="black"/>
+          </svg>
+
+          <p 
+          rv-html='data.cart.total_price | getShippingNotice'></p>
+        </div>
+      </div>
+    
+
+    <div class="main-items" rv-if="data.cart.item_count | gt 0">
+      <div class="main-items-scroll" data-side-cart-items>
+        <div class="cart-item--rivets flex" rv-extra-class="item.line_price | money" rv-each-item="data.cart.items">
+    <div class="left-area">
+        <a rv-href="item.url" class="object-fit--cover"><img loading="lazy" loading="lazy" rv-src="item.image | getSizedImage '90x90' " rv-srcset="item.image | getSrcSet '90x90' "></a>
+    </div>
+
+    <div class="right-area">
+
+        <header class="flex f-j-between f-a-center">
+            
+            <a class="cart-item-product-title" rv-href="item.url" rv-text="item.product_title"></a>
+
+            <button type="button" rv-on-click="controller.removeItem" class="cart-item-remove">
+               Remove
+            </button>
+
+        </header>
+        
+        <p class="cart-item-product-price flex f-a-center">
+            <span class="cart-item-line-price money" rv-data-money="item.line_price" rv-html="item.line_price | money"></span>
+
+            <span class="cart-item-line-price money compare-price" rv-data-money="item.variant.compare_at_price" rv-html="item.variant.compare_at_price | money" rv-if="item.variant.compare_at_price | gt item.line_price"></span>
+        </p>
+
+        <div rv-unless="item.product_has_only_default_variant">
+            <small rv-each-prop="item.options_with_values"><span rv-text="prop.name"></span>: <span rv-text="prop.value"></span></small>
+        </div>
+
+        <small rv-each-prop="item | getProps"><span rv-text="prop.name"></span>: <span rv-html="prop.value"></span></small>
+
+        <small class="cart-item-selling-plan" rv-if="item.selling_plan_allocation" rv-text="item.selling_plan_allocation.selling_plan.name"></small>
+
+        <div class="cart-item-quantity-selector flex" rv-if="item.price | gt 0">
+            <button type="button" rv-on-click="controller.decrementQuantity">
+              <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
+                  <path fill="#2E2E2E" d="M0 4.333h10v1H0v-1z"></path>
+              </svg>
+            </button>
+            <input autocomplete="off" type="text" readonly min="1" max="999"rv-value="item.quantity" name="quantity">
+            <button type="button" rv-on-click="controller.incrementQuantity" rv-if="item.price | gt 0">
+              <svg class="icon-plus" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15"><g><g><path class="horizontal-line" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="20" d="M0 7.5h15"></path></g><g><path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="20" d="M7.5 0v15"></path></g></g></svg>
+            </button>
+        </div>
+
+    </div>
+</div>
+
+      </div>
+    </div>
+
+    <p class="empty-cart" rv-unless="data.cart.item_count | gt 0">
+      Your bag is currently empty.
+    </p>
+    
+    <footer rv-if="data.cart.item_count | gt 0">
+      
+      <div class="total-area">
+        <div class="flex f-a-center f-j-between">
+          <p>Subtotal</p>
+          <span class="money" rv-data-money='data.cart.total_price' rv-html='data.cart.total_price | money'></span>
+        </div>
+      </div>
+
+      
+ 
+      <div class="button-container">
+        <a href="/checkout" class="btn">
+          Checkout
+        </a>
+      </div>
+
+    </footer>
+
+  </div>
+
+</section>
+
+<script type="application/json" data-shipping-threshold-options>
+  {
+    "enabled": true,
+    "threshold": 40,
+    "under": "\u003cp\u003eYou are only [x] from free UK shipping!\u003c\/p\u003e",
+    "reached": "\u003cp\u003eCongratulations you qualify for free UK shipping!\u003c\/p\u003e"
+  }
+</script>
+
+<script type="application/json" data-upsell-options>
+  {
+    "limit": 2,
+    "enabled": false,
+    "handles": []
+  }
+</script>
+
+
+
+</div>
+
+    <script data-cart type="application/json">
+      {"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"GBP","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0}
+    </script>
+
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    
+    
+    <script>window.__webpack_public_path__ = "//floracurl.co.uk/cdn/shop/t/109/assets/"</script>
+    <script src='//floracurl.co.uk/cdn/shop/t/109/assets/radiant.js?v=124939023732853150911701333399&enable_js_minification=1' defer='defer'></script>
+
+    <script src="https://a.klaviyo.com/media/js/onsite/onsite.js"></script>           
+<script>
+    var klaviyo = klaviyo || [];
+    klaviyo.init({
+      account: "XGUr9g",
+      platform: "shopify"
+    });
+    klaviyo.enable("backinstock",{ 
+    trigger: {
+      product_page_text: "notify me when available",
+      product_page_class: "btn",
+      product_page_text_align: "center",
+      product_page_width: "100%",
+      product_page_margin: "0px",
+      replace_anchor: true
+    },
+    modal: {
+     headline: "{product_name}",
+     body_content: "Register to receive a notification when this item comes back in stock.",
+     email_field_label: "Email",
+     button_label: "notify me when available",
+     subscription_success_label: "You're in! We'll let you know when it's back.",
+     footer_content: '',
+     additional_styles: "@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue');",
+     drop_background_color: "#000",
+     background_color: "#fff",
+     text_color: "#222",
+     button_text_color: "#fff",
+     button_background_color: "#2A7050",
+     close_button_color: "#ccc",
+     error_background_color: "#fcd6d7",
+     error_text_color: "#C72E2F",
+     success_background_color: "#d3efcd",
+     success_text_color: "#1B9500"
+    }
+  });
+</script>
+
+  <style>  </style>
+<div id="shopify-block-2912608901741945173" class="shopify-block shopify-app-block">
+</div><div id="shopify-block-7313114205116804392" class="shopify-block shopify-app-block"><script>
+window.srn = {};
+window.srn.datastore = {};
+window.srn.datastore.installed = true;
+
+if (window.Shopify && window.Shopify.shop) {
+  window.srn.datastore.shopify_domain = window.Shopify.shop
+} else {
+  console.error('SRN: unable to get shop domain')
+  window.srn.datastore.shopify_domain = ''
+}
+
+if (window.srn.datastore.shopify_domain.indexOf('srn-chris') > -1) {
+  window.srn.datastore.server_url = 'https://dev.propelcommerce.io'
+} else if (window.srn.datastore.shopify_domain.indexOf('srn-eric') > -1) {
+  window.srn.datastore.server_url = 'https://pc5.ngrok.io'
+} else if (window.srn.datastore.shopify_domain.indexOf('srn-teej') > -1) {
+  window.srn.datastore.server_url = 'https://pc2.ngrok.io'
+} else if (window.srn.datastore.shopify_domain.indexOf('srn-staging') > -1) {
+  window.srn.datastore.server_url = 'https://session-recording-now-staging.herokuapp.com'
+} else {
+  window.srn.datastore.server_url = 'https://session-recording-now.herokuapp.com'
+}
+
+function loadJS(url, async = true) {
+  let scriptEle = document.createElement("script");
+
+  scriptEle.setAttribute("src", url);
+  scriptEle.setAttribute("type", "text/javascript");
+  scriptEle.setAttribute("async", async);
+
+  document.body.appendChild(scriptEle);
+}
+loadJS(window.srn.datastore.server_url + "/session-recording-now.js", true);
+</script>
+
+
+</div></body>
+
+</html>
